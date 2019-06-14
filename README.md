@@ -28,6 +28,4 @@ A list of articles, tutorials, guides and videos about SwiftUI.
 
 # Courses
 
-*Courses, *
-
 Coming soon..
