@@ -7,7 +7,7 @@ A list of articles, tutorials, guides and videos about SwiftUI.
 - [Examples](#examples)
 
 
-# Articles 📝
+## 📝 Articles 
 
 * [Apple - SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials)
 * [SwiftBySundell](https://wwdcbysundell.com/2019/swiftui-common-questions/) - Answers to the most common questions about SwiftUI.
@@ -19,7 +19,7 @@ A list of articles, tutorials, guides and videos about SwiftUI.
 * [Majid's Blog about Swift development](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) - Making real-world app with SwiftUI
 
 
-# Videos 📺
+## 📺 Videos
 
 * [Apple WWDC 2019 - Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/) - Start here for a quick overview and demo.
 * [Apple WWDC 2019 - SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216/) - Deeper dive into how it works and the key concepts.
@@ -39,12 +39,12 @@ A list of articles, tutorials, guides and videos about SwiftUI.
 * [Martin Lasek](https://www.youtube.com/watch?v=KD4OAjQJYPc) - Understanding State
 
 
-# Courses 💻
+## 💻 Courses
 
 * [Udemy - DevTechie Interactive](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/) - SwiftUI Quick Start Guide with iOS 13 and Xcode 11
 
 
-# Examples 🛠
+## 🛠 Examples
 
 * [GitHub - ivanvorobei](https://github.com/ivanvorobei/SwiftUI) - Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.
 * [GitHub - Jinxiansen](https://github.com/Jinxiansen/SwiftUI) - Learning and Usage Guide
