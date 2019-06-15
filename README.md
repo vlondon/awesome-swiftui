@@ -8,11 +8,14 @@ A list of articles, tutorials, guides and videos about SwiftUI.
 
 # Articles
 
-* [Apple- SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials)
+* [Apple - SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials)
 * [SwiftBySundell](https://wwdcbysundell.com/2019/swiftui-common-questions/) - Answers to the most common questions about SwiftUI.
 * [SwiftBySundell](https://wwdcbysundell.com/2019/swiftui-first-look/) - A first look at SwiftUI: Apple’s declarative new UI framework.
 * [SwiftRocks](https://swiftrocks.com/inside-swiftui-compiler-magic.html) - Inside SwiftUI's Declarative Syntax's Compiler Magic
-
+* [Martin Lasek](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) - Dynamic List & Identifiable
+* [Martin Lasek](https://medium.com/@martinlasek/swiftui-understanding-binding-8e20269a76bc) - Understanding Binding
+* [Martin Lasek](https://medium.com/@martinlasek/swiftui-detail-view-44772246fa2a) - Create a Detail View
+* [Majid's Blog about Swift development](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) - Making real-world app with SwiftUI
 
 # Videos
 
@@ -28,4 +31,4 @@ A list of articles, tutorials, guides and videos about SwiftUI.
 
 # Courses
 
-Coming soon..
+* [Udemy - DevTechie Interactive](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/) - SwiftUI Quick Start Guide with iOS 13 and Xcode 11
