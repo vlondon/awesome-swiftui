@@ -2,26 +2,48 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 
 ### Content
 - [Articles](#articles)
+  - [Tutorials](#tutorials)
+  - [State and Binding](#state-and-binding)
+  - [View](#view)
+  - [Inside](#inside)
+  - [Debug](#debug)
+  - [Other](#other)
 - [Videos](#videos)
-- [Courses](#courses)
+  - [Apple WWDC 2019](#apple-wwdc-2019)
+  - [Tutorials](#tutorials)
 - [Examples](#examples)
+  - [Helpers](#helpers)
+  - [Apps](#apps)
+- [Courses](#courses)
+- [More](#more)
 
 
 ## 📝 Articles 
 
+### Tutorials
 * [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials) by Apple
+* [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) by Majid
+
+### State and Binding
+* [Understanding State](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f) by Martin Lasek
+* [Understanding Binding](https://medium.com/@martinlasek/swiftui-understanding-binding-8e20269a76bc) by Martin Lasek
+* [Understanding Property Wrappers in SwiftUI](https://mecid.github.io/2019/06/12/understanding-property-wrappers-in-swiftui/) by Majid
+
+### View
+* [Dynamic List & Identifiable](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
+* [Create a Detail View](https://medium.com/@martinlasek/swiftui-detail-view-44772246fa2a) by Martin Lasek
+* [SwiftUI tips and tricks](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks) by Paul Hudson
+
+### Inside
+* [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) by SwiftRocks
+* [What’s this “some” in SwiftUI?](https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4) by Mischa Hildebrand
+
+### Debug
+* [How to use Instruments to profile your SwiftUI code and identify slow layouts](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts) by Paul Hudson
+
+### Other
 * [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/) by John Sundell
 * [A first look at SwiftUI: Apple’s declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/) by John Sundell
-* [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) by SwiftRocks
-* [Understanding State](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f) by Martin Lasek
-* [Dynamic List & Identifiable](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
-* [Understanding Binding](https://medium.com/@martinlasek/swiftui-understanding-binding-8e20269a76bc) by Martin Lasek
-* [Create a Detail View](https://medium.com/@martinlasek/swiftui-detail-view-44772246fa2a) by Martin Lasek
-* [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) by Majid
-* [Understanding Property Wrappers in SwiftUI](https://mecid.github.io/2019/06/12/understanding-property-wrappers-in-swiftui/) by Majid
-* [How to use Instruments to profile your SwiftUI code and identify slow layouts](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts) by Paul Hudson
-* [SwiftUI tips and tricks](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks) by Paul Hudson
-* [What’s this “some” in SwiftUI?](https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4) by Mischa Hildebrand
 
 
 ## 📺 Videos
