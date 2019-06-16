@@ -90,12 +90,6 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Sample iOS project built by SwiftUI + Flux and Combine framework using GitHub API](https://github.com/kitasuke/SwiftUI-Flux) by kitasuke
 * [ChartView made in SwiftUI](https://github.com/AppPear/ChartView) by AppPear
 * [Swift UI Demo for an instagram copy](https://github.com/leavenstee/InstaFake-Swift-UI) by leavenstee
-* []() by 
-* []() by 
-* []() by 
-* []() by 
-* []() by 
-* []() by 
 * [A to-do list app using SwiftUI and combine with restful api](https://github.com/jamfly/SwiftUI-Combine-todo-example) by jamfly
 * [Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture](https://github.com/PangMo5/AniTime) by PangMo5
 * [A notes app written in >100 lines of swift using SwiftUI](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451) by jnewc
