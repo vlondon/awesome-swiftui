@@ -59,4 +59,4 @@ A list of articles, tutorials, guides and videos about SwiftUI.
 * [GitHub - a2](https://github.com/a2/KeyboardAvoiding) - A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets
 
 
-More links and resources about SwiftUI [here](https://github.com/Juanpe/About-SwiftUI) and some [Books are coming](New SwiftUI, Combine and Catalyst Books: Preorders Now Available!)
+More links and resources about SwiftUI [here](https://github.com/Juanpe/About-SwiftUI) and some [Books are coming](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)
