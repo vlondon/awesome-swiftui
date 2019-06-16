@@ -18,6 +18,7 @@ A list of articles, tutorials, guides and videos about SwiftUI.
 * [Martin Lasek](https://medium.com/@martinlasek/swiftui-understanding-binding-8e20269a76bc) - Understanding Binding
 * [Martin Lasek](https://medium.com/@martinlasek/swiftui-detail-view-44772246fa2a) - Create a Detail View
 * [Majid](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) - Making real-world app with SwiftUI
+* [Majid](https://mecid.github.io/2019/06/12/understanding-property-wrappers-in-swiftui/) - Understanding Property Wrappers in SwiftUI
 * [Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts) - How to use Instruments to profile your SwiftUI code and identify slow layouts
 * [Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks) - SwiftUI tips and tricks
 * [Mischa Hildebrand](https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4) - What’s this “some” in SwiftUI?
