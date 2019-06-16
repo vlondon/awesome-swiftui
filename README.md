@@ -15,6 +15,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
   - [Helpers](#helpers)
   - [Apps](#apps)
 - [Courses](#courses)
+- [Books](#books)
 - [More](#more)
 
 
@@ -86,7 +87,10 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/) by DevTechie Interactive
 
 
+## 📖 Books
+* [SwiftUI by Tutorials](https://store.raywenderlich.com/products/swiftui-by-tutorials) by raywenderlich.com
+
+
 ## 🔗More
 
-
-More links and resources about SwiftUI [here](https://github.com/Juanpe/About-SwiftUI) and some [Books are coming](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)
+More links and resources about SwiftUI [here]
