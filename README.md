@@ -76,21 +76,35 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) by Jinxiansen
 * [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) by SimpleBoilerplates
 * [A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets](https://github.com/a2/KeyboardAvoiding) by a2
+* [Re-implementation of @binding and @State](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8) by AliSoftware
 
 ### Apps
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) by ivanvorobei
+* [SwiftUI & Combine app using MovieDB API](https://github.com/Dimillian/MovieSwiftUI) by Dimillian
+* [SwiftUI MovieDB prototype app](https://github.com/alfianlosari/SwiftUI-MovieDB) by alfianlosari
+* [SwiftUI and Combine based GitHubSearch example](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) by marty-suzuki
+* [This is an example project of SwiftUI and Combine using GitHub API](https://github.com/ra1028/SwiftUI-Combine) by ra1028
 * [An app that composes text over an image in SwiftUI](https://github.com/dempseyatgithub/MemeMaker) by dempseyatgithub
 * [A 2048 game writing with SwiftUI](https://github.com/unixzii/SwiftUI-2048) by unixzii
+* [Sample iOS project built by SwiftUI + MVVM and Combine framework using GitHub API](https://github.com/kitasuke/SwiftUI-MVVM) by kitasuke
+* [Sample iOS project built by SwiftUI + Flux and Combine framework using GitHub API](https://github.com/kitasuke/SwiftUI-Flux) by kitasuke
+* [ChartView made in SwiftUI](https://github.com/AppPear/ChartView) by AppPear
+* [Swift UI Demo for an instagram copy](https://github.com/leavenstee/InstaFake-Swift-UI) by leavenstee
+* []() by 
+* []() by 
+* []() by 
+* []() by 
+* []() by 
+* []() by 
+* [A to-do list app using SwiftUI and combine with restful api](https://github.com/jamfly/SwiftUI-Combine-todo-example) by jamfly
+* [Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture](https://github.com/PangMo5/AniTime) by PangMo5
+* [A notes app written in >100 lines of swift using SwiftUI](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451) by jnewc
 
 ## 💻 Courses
 
 * [SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/) by DevTechie Interactive
+* [Learn SwiftUI](https://learn.designcode.io/swiftui) - by Meng To
 
 
 ## 📖 Books
 * [SwiftUI by Tutorials](https://store.raywenderlich.com/products/swiftui-by-tutorials) by raywenderlich.com
-
-
-## 🔗More
-
-More links and resources about SwiftUI [here]
