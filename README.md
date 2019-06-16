@@ -3,8 +3,9 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 ### Content
 - [Articles](#articles)
   - [Tutorials](#tutorials)
-  - [State and Binding](#state-and-binding)
   - [View](#view)
+  - [State and Binding](#state-and-binding)
+  - [Architecture](#architecture)
   - [Inside](#inside)
   - [Debug](#debug)
   - [Other](#other)
@@ -25,15 +26,19 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials) by Apple
 * [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) by Majid
 
+### View
+* [Dynamic List & Identifiable](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
+* [Create a Detail View](https://medium.com/@martinlasek/swiftui-detail-view-44772246fa2a) by Martin Lasek
+* [SwiftUI tips and tricks](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks) by Paul Hudson
+
 ### State and Binding
 * [Understanding State](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f) by Martin Lasek
 * [Understanding Binding](https://medium.com/@martinlasek/swiftui-understanding-binding-8e20269a76bc) by Martin Lasek
 * [Understanding Property Wrappers in SwiftUI](https://mecid.github.io/2019/06/12/understanding-property-wrappers-in-swiftui/) by Majid
 
-### View
-* [Dynamic List & Identifiable](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
-* [Create a Detail View](https://medium.com/@martinlasek/swiftui-detail-view-44772246fa2a) by Martin Lasek
-* [SwiftUI tips and tricks](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks) by Paul Hudson
+### Architecture
+* [Will Combine kill RxSwift?](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89) by MortyMerr
+* [https://medium.com/@azamsharp/mvvm-in-swiftui-8a2e9cc2964a](https://medium.com/@azamsharp/mvvm-in-swiftui-8a2e9cc2964a) by Mohammad Azam
 
 ### Inside
 * [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) by SwiftRocks
@@ -45,7 +50,6 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 ### Other
 * [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/) by John Sundell
 * [A first look at SwiftUI: Apple’s declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/) by John Sundell
-* [Will Combine kill RxSwift?](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89) by MortyMerr
 
 
 ## 📺 Videos
