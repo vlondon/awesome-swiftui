@@ -9,19 +9,19 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 
 ## 📝 Articles 
 
-* [Apple](https://developer.apple.com/tutorials/swiftui/tutorials) - SwiftUI Tutorials
-* [SwiftBySundell](https://wwdcbysundell.com/2019/swiftui-common-questions/) - Answers to the most common questions about SwiftUI.
-* [SwiftBySundell](https://wwdcbysundell.com/2019/swiftui-first-look/) - A first look at SwiftUI: Apple’s declarative new UI framework.
-* [SwiftRocks](https://swiftrocks.com/inside-swiftui-compiler-magic.html) - Inside SwiftUI's Declarative Syntax's Compiler Magic
-* [Martin Lasek](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f) - Understanding State
-* [Martin Lasek](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) - Dynamic List & Identifiable
-* [Martin Lasek](https://medium.com/@martinlasek/swiftui-understanding-binding-8e20269a76bc) - Understanding Binding
-* [Martin Lasek](https://medium.com/@martinlasek/swiftui-detail-view-44772246fa2a) - Create a Detail View
-* [Majid](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) - Making real-world app with SwiftUI
-* [Majid](https://mecid.github.io/2019/06/12/understanding-property-wrappers-in-swiftui/) - Understanding Property Wrappers in SwiftUI
-* [Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts) - How to use Instruments to profile your SwiftUI code and identify slow layouts
-* [Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks) - SwiftUI tips and tricks
-* [Mischa Hildebrand](https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4) - What’s this “some” in SwiftUI?
+* [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials) by Apple
+* [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/) by John Sundell
+* [A first look at SwiftUI: Apple’s declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/) by John Sundell
+* [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) by SwiftRocks
+* [Understanding State](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f) by Martin Lasek
+* [Dynamic List & Identifiable](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
+* [Understanding Binding](https://medium.com/@martinlasek/swiftui-understanding-binding-8e20269a76bc) by Martin Lasek
+* [Create a Detail View](https://medium.com/@martinlasek/swiftui-detail-view-44772246fa2a) by Martin Lasek
+* [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) by Majid
+* [Understanding Property Wrappers in SwiftUI](https://mecid.github.io/2019/06/12/understanding-property-wrappers-in-swiftui/) by Majid
+* [How to use Instruments to profile your SwiftUI code and identify slow layouts](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts) by Paul Hudson
+* [SwiftUI tips and tricks](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks) by Paul Hudson
+* [What’s this “some” in SwiftUI?](https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4) by Mischa Hildebrand
 
 
 ## 📺 Videos
@@ -38,30 +38,30 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233) - Learn how previews work, how to optimize the structure of your SwiftUI app for previews, and how to add preview support to your existing views and view controllers
 
 ### Tutorials
-* [Lets Build That App](https://www.youtube.com/watch?v=7QgPpvqTfeo) - Facebook Complex Layouts - Horizontal Scroll View
-* [Lets Build That App](https://www.youtube.com/watch?v=bz6GTYaIQXU) - Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays
-* [Lets Build That App](https://www.youtube.com/watch?v=xT4wGOc2jd4) - Fetching JSON and Image Data with BindableObject
-* [Lets Build That App](https://www.youtube.com/watch?v=l7vkP6WW6Yk) - Reactive Intro: State Management and Bindings
-* [Brian Advent](https://www.youtube.com/watch?v=Pfw7zWxchQc) - Simple SwiftUI Application
-* [Martin Lasek](https://www.youtube.com/watch?v=KD4OAjQJYPc) - Understanding State
+* [Facebook Complex Layouts - Horizontal Scroll View](https://www.youtube.com/watch?v=7QgPpvqTfeo) by Lets Build That App
+* [Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays](https://www.youtube.com/watch?v=bz6GTYaIQXU) by Lets Build That App
+* [Fetching JSON and Image Data with BindableObject](https://www.youtube.com/watch?v=xT4wGOc2jd4) by Lets Build That App
+* [Reactive Intro: State Management and Bindings](https://www.youtube.com/watch?v=l7vkP6WW6Yk) by Lets Build That App
+* [Simple SwiftUI Application](https://www.youtube.com/watch?v=Pfw7zWxchQc) by Brian Advent
+* [Understanding State](https://www.youtube.com/watch?v=KD4OAjQJYPc) by Martin Lasek
 
 
 ## 🛠 Examples
 
 ### Helpers
-* [Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui/) - SwiftUI by Example
-* [GitHub - Jinxiansen](https://github.com/Jinxiansen/SwiftUI) - Learning and Usage Guide
-* [GitHub - SimpleBoilerplates](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) - SwiftUI Cheat Sheet
-* [GitHub - a2](https://github.com/a2/KeyboardAvoiding) - A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets
+* [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui/) by Paul Hudson
+* [Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) by Jinxiansen
+* [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) by SimpleBoilerplates
+* [A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets](https://github.com/a2/KeyboardAvoiding) by a2
 
 ### Apps
-* [GitHub - ivanvorobei](https://github.com/ivanvorobei/SwiftUI) - Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.
-* [GitHub - dempseyatgithub](https://github.com/dempseyatgithub/MemeMaker) - An app that composes text over an image in SwiftUI
-* [GitHub - unixzii](https://github.com/unixzii/SwiftUI-2048) - A 2048 game writing with SwiftUI
+* [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) by ivanvorobei
+* [An app that composes text over an image in SwiftUI](https://github.com/dempseyatgithub/MemeMaker) by dempseyatgithub
+* [A 2048 game writing with SwiftUI](https://github.com/unixzii/SwiftUI-2048) by unixzii
 
 ## 💻 Courses
 
-* [Udemy - DevTechie Interactive](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/) - SwiftUI Quick Start Guide with iOS 13 and Xcode 11
+* [SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/) by DevTechie Interactive
 
 
 ## 🔗More
