@@ -74,7 +74,7 @@ maxcodes
 * [Reactive Intro: State Management and Bindings](https://www.youtube.com/watch?v=l7vkP6WW6Yk) by Lets Build That App
 * [Simple SwiftUI Application](https://www.youtube.com/watch?v=Pfw7zWxchQc) by Brian Advent
 * [Understanding State](https://www.youtube.com/watch?v=KD4OAjQJYPc) by Martin Lasek
-
+* [SwiftUI Complete Apps](https://www.youtube.com/watch?v=VGJBLlfSN-Y&list=PLuoeXyslFTuaZtX7xSYbWz3TR0Vpz39gK) by Paul Hudson
 
 ## 🛠 Examples
 
