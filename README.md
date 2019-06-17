@@ -64,6 +64,8 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238/) - You get a lot for free in SwiftUI but you’ll likely need to tweak some things (as with UIKit). API for setting labels, traits, actions, etc.
 * [SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219/) - Of course you can now build watchOS Apps with SwiftUI.
 * [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233) - Learn how previews work, how to optimize the structure of your SwiftUI app for previews, and how to add preview support to your existing views and view controllers
+* [Collection View 2019 - Scrolling List in Swift UI](https://youtu.be/AYQHRnYT9Jc) by 
+maxcodes
 
 ### Tutorials
 * [Facebook Complex Layouts - Horizontal Scroll View](https://www.youtube.com/watch?v=7QgPpvqTfeo) by Lets Build That App
