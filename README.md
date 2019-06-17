@@ -82,6 +82,7 @@ maxcodes
 * [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui/) by Paul Hudson
 * [Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) by Jinxiansen
 * [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) by SimpleBoilerplates
+* [SwiftUI Image view that displays an image downloaded from provided URL](https://github.com/dmytro-anokhin/url-image) by Dmytro Anokhin
 * [A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets](https://github.com/a2/KeyboardAvoiding) by a2
 * [Re-implementation of @binding and @State](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8) by AliSoftware
 
