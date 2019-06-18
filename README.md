@@ -27,6 +27,9 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) by Majid
 * [Intro to SwiftUI — Part 1](https://medium.com/@suyash.srijan/intro-to-swiftui-part-1-47361a3ffb2e) by Suyash Srijan
 
+### How to
+* [How To Make a Simple Countdown Timer with SwiftUI](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) by Antoine Barrault
+
 ### View
 * [Dynamic List & Identifiable](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
 * [Create a Detail View](https://medium.com/@martinlasek/swiftui-detail-view-44772246fa2a) by Martin Lasek
