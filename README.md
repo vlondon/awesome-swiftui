@@ -30,6 +30,8 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 
 ### How to
 * [How To Make a Simple Countdown Timer with SwiftUI](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) by Antoine Barrault
+* [How to build a Chat App or Messenger in SwiftUI for iOS Swift](https://blog.usejournal.com/how-to-build-a-chat-app-or-messenger-in-swiftui-for-ios-swift-b46dbe5cc0ab) by Nick Halavins
+* [How to build a  TicTacToe game in SwiftUI](https://medium.com/@valv0/a-tictactoe-game-in-swiftui-66b24953f467) by Costantino Pistagna
 
 ### View
 * [Dynamic List & Identifiable](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
@@ -57,6 +59,8 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/) by John Sundell
 * [A first look at SwiftUI: Apple’s declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/) by John Sundell
 * [Shifting paradigms in Swift](https://www.swiftbysundell.com/posts/shifting-paradigms-in-swift) by John Sundell
+* [Understanding Declarative Programming](https://medium.com/better-programming/swiftui-understanding-declarative-programming-aaf05b2383bd) by Michael Long
+* [Rendering SwiftUI views to HTML](https://worthdoingbadly.com/swiftui-html/) by Zhuowei Zhang
 
 ## 📺 Videos
 
@@ -109,6 +113,7 @@ maxcodes
 * [A notes app written in >100 lines of swift using SwiftUI](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451) by jnewc
 * [A weather forecast app using the OpenWeather API, MapKit, and SwiftUI!](https://github.com/jhatin94/tempatlas-swiftui) by jhatin94
 * [Hacker News reader built with SwiftUI and Combine](https://github.com/nathfreder/HackerNews) by nathfreder
+* [Flux pattern for SwiftUI](https://github.com/johnsusek/fluxus/blob/master/README.md) by johnsusek
 
 ## 💻 Courses
 
