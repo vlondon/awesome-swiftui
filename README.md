@@ -27,6 +27,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials) by Apple
 * [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) by Majid
 * [Intro to SwiftUI — Part 1](https://medium.com/@suyash.srijan/intro-to-swiftui-part-1-47361a3ffb2e) by Suyash Srijan
+* [MessageUI, SwiftUI and UIKit integration](https://medium.com/@florentmorin/messageui-swiftui-and-uikit-integration-82d91159b0bd) by Florent Morin
 
 ### How to
 * [How To Make a Simple Countdown Timer with SwiftUI](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) by Antoine Barrault
@@ -60,7 +61,8 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [A first look at SwiftUI: Apple’s declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/) by John Sundell
 * [Shifting paradigms in Swift](https://www.swiftbysundell.com/posts/shifting-paradigms-in-swift) by John Sundell
 * [Understanding Declarative Programming](https://medium.com/better-programming/swiftui-understanding-declarative-programming-aaf05b2383bd) by Michael Long
-* [Rendering SwiftUI views to HTML](https://worthdoingbadly.com/swiftui-html/) by Zhuowei Zhang
+* [Rendering SwiftUI views to HTML](https://worthdoingbadly.com/swiftui-html/) by Zhuowei Zhang]
+* [Reusable Components/Higher-Order-Components](https://medium.com/@andreivillasana/swiftui-reusable-components-higher-order-components-192c65375c36) by Andrei Villasana
 
 ## 📺 Videos
 
@@ -95,6 +97,9 @@ maxcodes
 * [SwiftUI Image view that displays an image downloaded from provided URL](https://github.com/dmytro-anokhin/url-image) by Dmytro Anokhin
 * [A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets](https://github.com/a2/KeyboardAvoiding) by a2
 * [Re-implementation of @binding and @State](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8) by AliSoftware
+* [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) by Jinxiansen
+* [FlowStack is a grid layout component](https://github.com/johnsusek/FlowStack) by johnsusek
+* [Flux pattern for SwiftUI](https://github.com/johnsusek/fluxus/blob/master/README.md) by johnsusek
 
 ### Apps
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) by ivanvorobei
@@ -113,7 +118,9 @@ maxcodes
 * [A notes app written in >100 lines of swift using SwiftUI](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451) by jnewc
 * [A weather forecast app using the OpenWeather API, MapKit, and SwiftUI!](https://github.com/jhatin94/tempatlas-swiftui) by jhatin94
 * [Hacker News reader built with SwiftUI and Combine](https://github.com/nathfreder/HackerNews) by nathfreder
-* [Flux pattern for SwiftUI](https://github.com/johnsusek/fluxus/blob/master/README.md) by johnsusek
+* [Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter) by alexliubj
+* [A basic SwiftUI chat app that leverages the new URLSessionWebSocketTask](https://github.com/niazoff/Chat) by niazoff
+* [A simple SwiftUI weather app using MVVM](https://github.com/niazoff/Weather) by niazoff
 
 ## 💻 Courses
 
