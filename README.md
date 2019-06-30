@@ -9,6 +9,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
   - [View](#view)
   - [State and Binding](#state-and-binding)
   - [Architecture](#architecture)
+  - [Animations](#animations)
   - [Inside](#inside)
   - [Debug](#debug)
   - [Other](#other)
@@ -29,6 +30,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials) by Apple
 * [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) by Majid
 * [Intro to SwiftUI — Part 1](https://medium.com/@suyash.srijan/intro-to-swiftui-part-1-47361a3ffb2e) by Suyash Srijan
+* [Intro to SwiftUI — Part 2](https://medium.com/@suyash.srijan/intro-to-swiftui-part-2-6b7e792c21ef) by Suyash Srijan
 * [MessageUI, SwiftUI and UIKit integration](https://medium.com/@florentmorin/messageui-swiftui-and-uikit-integration-82d91159b0bd) by Florent Morin
 
 ### How to
@@ -50,8 +52,12 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Will Combine kill RxSwift?](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89) by MortyMerr
 * [MVVM in SwiftUI](https://medium.com/@azamsharp/mvvm-in-swiftui-8a2e9cc2964a) by Mohammad Azam
 
+### Animations
+* [Animations in SwiftUI](https://mecid.github.io/2019/06/26/animations-in-swiftui/) by Majid
+* [UI Animations With Swift](https://medium.com/better-programming/ui-animations-with-swift-2ebb5e6d2292) by Xiomara Figueroa
+
 ### Inside
-* [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) by SwiftRocks
+* [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) by Bruno Rocha
 * [What’s this “some” in SwiftUI?](https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4) by Mischa Hildebrand
 * [Swift Opaque Result Types](https://jeroenscode.com/swift-opaque-result-types/) by Baking Swift
 
@@ -67,7 +73,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Reusable Components/Higher-Order-Components](https://medium.com/@andreivillasana/swiftui-reusable-components-higher-order-components-192c65375c36) by Andrei Villasana
 * [SwiftUI: Handling optionals](https://ericasadun.com/2019/06/20/swiftui-handling-optionals/) by Erica Sadun
 * [Improving SwiftUI modal presentation API](https://alejandromp.com/blog/2019/06/24/improving-swiftui-modal-presentation-api/) by Alejandro Martinez
-* [Animations in SwiftUI](https://mecid.github.io/2019/06/26/animations-in-swiftui/) by Majid
+* [Mixing SwiftUI, Combine, OLX](https://tech.olx.com/mixing-swiftui-combine-olx-636c4f3c4162) by Aleksander Lorenc
 
 ## 📺 Videos
 
