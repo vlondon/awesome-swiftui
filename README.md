@@ -1,6 +1,6 @@
 A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to contribute!**
 
-<img src="images/banner.png"/>
+<img src="banner.png"/>
 
 ### Content
 - [Articles](#articles)
