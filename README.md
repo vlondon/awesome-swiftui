@@ -130,7 +130,8 @@ maxcodes
 
 * [SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/) by DevTechie Interactive
 * [SwiftUI - Declarative Interfaces for any Apple Device](https://www.udemy.com/swiftui-declarative-interfaces-for-any-apple-device/?couponCode=SWIFTUIMEDIUM) by Mohammad Azam
-* [Learn SwiftUI](https://learn.designcode.io/swiftui) - by Meng To
+* [Learn SwiftUI](https://learn.designcode.io/swiftui) by Meng To
+* [Build an app with SwiftUI](https://designcode.io/swiftui) by Meng To
 
 
 ## 📖 Books
