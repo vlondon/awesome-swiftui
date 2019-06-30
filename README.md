@@ -65,6 +65,9 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Understanding Declarative Programming](https://medium.com/better-programming/swiftui-understanding-declarative-programming-aaf05b2383bd) by Michael Long
 * [Rendering SwiftUI views to HTML](https://worthdoingbadly.com/swiftui-html/) by Zhuowei Zhang]
 * [Reusable Components/Higher-Order-Components](https://medium.com/@andreivillasana/swiftui-reusable-components-higher-order-components-192c65375c36) by Andrei Villasana
+* [SwiftUI: Handling optionals](https://ericasadun.com/2019/06/20/swiftui-handling-optionals/) by Erica Sadun
+* [Improving SwiftUI modal presentation API](https://alejandromp.com/blog/2019/06/24/improving-swiftui-modal-presentation-api/) by Alejandro Martinez
+* [Animations in SwiftUI](https://mecid.github.io/2019/06/26/animations-in-swiftui/) by Majid
 
 ## 📺 Videos
 
