@@ -74,6 +74,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [SwiftUI: Handling optionals](https://ericasadun.com/2019/06/20/swiftui-handling-optionals/) by Erica Sadun
 * [Improving SwiftUI modal presentation API](https://alejandromp.com/blog/2019/06/24/improving-swiftui-modal-presentation-api/) by Alejandro Martinez
 * [Mixing SwiftUI, Combine, OLX](https://tech.olx.com/mixing-swiftui-combine-olx-636c4f3c4162) by Aleksander Lorenc
+* [The missing :SwiftWebUI](http://www.alwaysrightinstitute.com/swiftwebui/) by alwaysrightinstitute
 
 ## 📺 Videos
 
