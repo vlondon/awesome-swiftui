@@ -36,7 +36,9 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 ### How to
 * [How To Make a Simple Countdown Timer with SwiftUI](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) by Antoine Barrault
 * [How to build a Chat App or Messenger in SwiftUI for iOS Swift](https://blog.usejournal.com/how-to-build-a-chat-app-or-messenger-in-swiftui-for-ios-swift-b46dbe5cc0ab) by Nick Halavins
-* [How to build a  TicTacToe game in SwiftUI](https://medium.com/@valv0/a-tictactoe-game-in-swiftui-66b24953f467) by Costantino Pistagna
+* [How to build a TicTacToe game with SwiftUI](https://medium.com/@valv0/a-tictactoe-game-in-swiftui-66b24953f467) by Costantino Pistagna
+* [How to Build a Form UI with SwiftUI](https://www.appcoda.com/swiftui-form-ui/) by Simon Ng
+* [How to Build a Weather app with SwiftUI](https://medium.com/lunabee-studio/building-a-weather-app-with-swiftui-4ec2743ff615) by Benjamin Pisano
 
 ### View
 * [Dynamic List & Identifiable](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
@@ -47,6 +49,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Understanding State](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f) by Martin Lasek
 * [Understanding Binding](https://medium.com/@martinlasek/swiftui-understanding-binding-8e20269a76bc) by Martin Lasek
 * [Understanding Property Wrappers in SwiftUI](https://mecid.github.io/2019/06/12/understanding-property-wrappers-in-swiftui/) by Majid
+* [Swift Property Wrappers](https://nshipster.com/propertywrapper/) by Mattt
 
 ### Architecture
 * [Will Combine kill RxSwift?](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89) by MortyMerr
