@@ -78,6 +78,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Improving SwiftUI modal presentation API](https://alejandromp.com/blog/2019/06/24/improving-swiftui-modal-presentation-api/) by Alejandro Martinez
 * [Mixing SwiftUI, Combine, OLX](https://tech.olx.com/mixing-swiftui-combine-olx-636c4f3c4162) by Aleksander Lorenc
 * [The missing :SwiftWebUI](http://www.alwaysrightinstitute.com/swiftwebui/) by alwaysrightinstitute
+* [Rasterizing SwiftUI views from the Command-Line](https://medium.com/@eneko/rasterizing-swiftui-views-from-the-command-line-80d974356c4a) by Eneko Alonso
 
 ## 📺 Videos
 
