@@ -13,6 +13,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
   - [Inside](#inside)
   - [Debug](#debug)
   - [Other](#other)
+  - [Combine](#combine)
 - [Videos](#videos)
   - [Apple WWDC 2019](#apple-wwdc-2019)
   - [Tutorials](#tutorials)
@@ -84,6 +85,10 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Mixing SwiftUI, Combine, OLX](https://tech.olx.com/mixing-swiftui-combine-olx-636c4f3c4162) by Aleksander Lorenc
 * [The missing :SwiftWebUI](http://www.alwaysrightinstitute.com/swiftwebui/) by alwaysrightinstitute
 * [Rasterizing SwiftUI views from the Command-Line](https://medium.com/@eneko/rasterizing-swiftui-views-from-the-command-line-80d974356c4a) by Eneko Alonso
+* [A Brief Tour of Swift UI](https://www.bignerdranch.com/blog/a-brief-tour-of-swift-ui/) by Amit Bijlani
+
+### Combine
+* [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77) by Arlind Aliu
 
 ## 📺 Videos
 
