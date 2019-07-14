@@ -128,6 +128,7 @@ maxcodes
 * [FlowStack is a grid layout component](https://github.com/johnsusek/FlowStack) by johnsusek
 * [Flux pattern for SwiftUI](https://github.com/johnsusek/fluxus/blob/master/README.md) by johnsusek
 * [A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack) by pietropizzi
+* [Declarative HTTP networking, designed for SwiftUI](https://github.com/carson-katri/swift-request) by carson-katri
 
 ### Apps
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) by ivanvorobei
