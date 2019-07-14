@@ -60,6 +60,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 
 ### Animations
 * [Animations in SwiftUI](https://mecid.github.io/2019/06/26/animations-in-swiftui/) by Majid
+* [Gestures in SwiftUI](https://mecid.github.io/2019/07/10/gestures-in-swiftui/) by Majid
 * [UI Animations With Swift](https://medium.com/better-programming/ui-animations-with-swift-2ebb5e6d2292) by Xiomara Figueroa
 
 ### Inside
@@ -121,6 +122,7 @@ maxcodes
 * [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) by Jinxiansen
 * [FlowStack is a grid layout component](https://github.com/johnsusek/FlowStack) by johnsusek
 * [Flux pattern for SwiftUI](https://github.com/johnsusek/fluxus/blob/master/README.md) by johnsusek
+* [A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack) by pietropizzi
 
 ### Apps
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) by ivanvorobei
