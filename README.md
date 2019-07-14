@@ -32,6 +32,8 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Intro to SwiftUI — Part 1](https://medium.com/@suyash.srijan/intro-to-swiftui-part-1-47361a3ffb2e) by Suyash Srijan
 * [Intro to SwiftUI — Part 2](https://medium.com/@suyash.srijan/intro-to-swiftui-part-2-6b7e792c21ef) by Suyash Srijan
 * [MessageUI, SwiftUI and UIKit integration](https://medium.com/@florentmorin/messageui-swiftui-and-uikit-integration-82d91159b0bd) by Florent Morin
+* [Managing Data Flow in SwiftUI](https://mecid.github.io/2019/07/03/managing-data-flow-in-swiftui/) by Majid
+* [Beginner SwiftUI Tutorials](https://swiftuihub.com/beginner-swiftui-tutorials/) by SwiftUI Hub
 
 ### How to
 * [How to build a Simple Countdown Timer](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) by Antoine Barrault
@@ -44,6 +46,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Dynamic List & Identifiable](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
 * [Create a Detail View](https://medium.com/@martinlasek/swiftui-detail-view-44772246fa2a) by Martin Lasek
 * [SwiftUI tips and tricks](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks) by Paul Hudson
+* [How to use SwiftUI to Speed Up your View Coding](https://medium.com/@leonardo.dematossouza/how-to-use-swiftui-to-speed-up-your-view-coding-6dbb0fcabc99) by Leonardo Souza
 
 ### State and Binding
 * [Understanding State](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f) by Martin Lasek
@@ -68,6 +71,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [How to use Instruments to profile your SwiftUI code and identify slow layouts](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts) by Paul Hudson
 
 ### Other
+* [Curated list of questions and answers about SwiftUI](https://goshdarnswiftui.com/) by Gosh Darn SwiftUI
 * [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/) by John Sundell
 * [A first look at SwiftUI: Apple’s declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/) by John Sundell
 * [Shifting paradigms in Swift](https://www.swiftbysundell.com/posts/shifting-paradigms-in-swift) by John Sundell
@@ -150,3 +154,5 @@ maxcodes
 
 ## 📖 Books
 * [SwiftUI by Tutorials](https://store.raywenderlich.com/products/swiftui-by-tutorials) by raywenderlich.com
+* [Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift) by raywenderlich.com
+* [Using Combine](https://heckj.github.io/swiftui-notes/) by Joseph Heck
