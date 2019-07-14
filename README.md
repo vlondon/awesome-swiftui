@@ -107,6 +107,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [SwiftUI Complete Apps](https://www.youtube.com/watch?v=VGJBLlfSN-Y&list=PLuoeXyslFTuaZtX7xSYbWz3TR0Vpz39gK) by Paul Hudson
 * [Collection View 2019 - Scrolling List in Swift UI](https://youtu.be/AYQHRnYT9Jc) by 
 maxcodes
+* [Swift UI: Working With UIKit](https://www.raywenderlich.com/4279893-swift-ui-working-with-uikit) by raywenderlich.com
 
 ## 🛠 Examples
 
