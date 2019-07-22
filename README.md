@@ -35,6 +35,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [MessageUI, SwiftUI and UIKit integration](https://medium.com/@florentmorin/messageui-swiftui-and-uikit-integration-82d91159b0bd) by Florent Morin
 * [Managing Data Flow in SwiftUI](https://mecid.github.io/2019/07/03/managing-data-flow-in-swiftui/) by Majid
 * [Beginner SwiftUI Tutorials](https://swiftuihub.com/beginner-swiftui-tutorials/) by SwiftUI Hub
+* [Making a Real World Application With SwiftUI](https://medium.com/better-programming/making-a-real-world-application-with-swiftui-cb40884c1056) by Thomas Ricouard
 
 ### How to
 * [How to build a Simple Countdown Timer](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) by Antoine Barrault
@@ -68,6 +69,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) by Bruno Rocha
 * [What’s this “some” in SwiftUI?](https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4) by Mischa Hildebrand
 * [Swift Opaque Result Types](https://jeroenscode.com/swift-opaque-result-types/) by Baking Swift
+* [Inside SwiftUI (About @State)](https://kateinoigakukun.hatenablog.com/entry/2019/06/09/081831) by kateinoigakukun
 
 ### Debug
 * [How to use Instruments to profile your SwiftUI code and identify slow layouts](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts) by Paul Hudson
@@ -86,6 +88,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [The missing :SwiftWebUI](http://www.alwaysrightinstitute.com/swiftwebui/) by alwaysrightinstitute
 * [Rasterizing SwiftUI views from the Command-Line](https://medium.com/@eneko/rasterizing-swiftui-views-from-the-command-line-80d974356c4a) by Eneko Alonso
 * [A Brief Tour of Swift UI](https://www.bignerdranch.com/blog/a-brief-tour-of-swift-ui/) by Amit Bijlani
+* [Why You Should Consider SwiftUI for Your Next Project](https://medium.com/better-programming/why-you-should-consider-swiftui-for-your-next-project-2d67a7e3745e) by Thomas Ricouard
 
 ### Combine
 * [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77) by Arlind Aliu
@@ -129,6 +132,7 @@ maxcodes
 * [Flux pattern for SwiftUI](https://github.com/johnsusek/fluxus/blob/master/README.md) by johnsusek
 * [A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack) by pietropizzi
 * [Declarative HTTP networking, designed for SwiftUI](https://github.com/carson-katri/swift-request) by carson-katri
+* [SwiftUI support for drag and drop on iOS](https://github.com/brunogb/SwiftUIDragDrop) by brunogb
 
 ### Apps
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) by ivanvorobei
