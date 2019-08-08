@@ -157,7 +157,7 @@ maxcodes
 * [Koober a ride-hailing app from Advanced iOS App Architecture book](https://github.com/raywenderlich/swiftui-example-app-koober) by raywenderlich
 * [SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.](https://github.com/lludo/SwiftSunburstDiagram) by lludo
 * [Design+Code app that shows how you can use SwiftUI to create beautiful UI](https://github.com/mythxn/DesignCode) by mythxn
-
+* [Shopping List app showing how to use SwiftUI with Core Data](https://github.com/ericlewis/ShoppingList) by ericlewis
 ## 💻 Courses
 
 * [SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/) by DevTechie Interactive
