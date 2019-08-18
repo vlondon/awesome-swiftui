@@ -36,13 +36,16 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Managing Data Flow in SwiftUI](https://mecid.github.io/2019/07/03/managing-data-flow-in-swiftui/) by Majid
 * [Beginner SwiftUI Tutorials](https://swiftuihub.com/beginner-swiftui-tutorials/) by SwiftUI Hub
 * [Making a Real World Application With SwiftUI](https://medium.com/better-programming/making-a-real-world-application-with-swiftui-cb40884c1056) by Thomas Ricouard
+* [Building BarChart with Shape API in SwiftUI](https://mecid.github.io/2019/08/14/building-barchart-with-shape-api-in-swiftui/) by Majid
 
 ### How to
-* [How to build a Simple Countdown Timer](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) by Antoine Barrault
+* [How to create an onboarding screen](https://www.blckbirds.com/post/how-to-create-a-onboarding-screen-in-swiftui-1) by blckbirds
 * [How to build a Chat App or Messenger](https://blog.usejournal.com/how-to-build-a-chat-app-or-messenger-in-swiftui-for-ios-swift-b46dbe5cc0ab) by Nick Halavins
-* [How to build a TicTacToe game](https://medium.com/@valv0/a-tictactoe-game-in-swiftui-66b24953f467) by Costantino Pistagna
 * [How to build a Form UI](https://www.appcoda.com/swiftui-form-ui/) by Simon Ng
 * [How to build a Weather App](https://medium.com/lunabee-studio/building-a-weather-app-with-swiftui-4ec2743ff615) by Benjamin Pisano
+* [How to create a Slide out Menu](https://medium.com/programming-with-swift/create-a-side-menu-with-swiftui-4225c8842d26) by Darren
+* [How to build a TicTacToe game](https://medium.com/@valv0/a-tictactoe-game-in-swiftui-66b24953f467) by Costantino Pistagna
+* [How to build a Simple Countdown Timer](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) by Antoine Barrault
 
 ### View
 * [Dynamic List & Identifiable](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
