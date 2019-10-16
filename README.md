@@ -95,6 +95,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 
 ### Combine
 * [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77) by Arlind Aliu
+* [SwiftUI & Combine: Better Together](https://medium.com/flawless-app-stories/swiftui-plus-combine-equals-love-791ad444a082) by [Peter Friese](https://www.twitter.com/peterfriese)
 
 ## 📺 Videos
 
