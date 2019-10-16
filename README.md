@@ -25,7 +25,6 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 - [Books](#books)
   - [SwiftUI](#swiftui)
   - [Combine](#combine)
-- [More](#more)
 
 
 ## 📝 Articles 
