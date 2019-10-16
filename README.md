@@ -3,7 +3,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 <img src="awesome-swiftui-banner.png"/>
 
 ### Content
-- [Articles](#articles)
+- [Articles](#-articles)
   - [Tutorials](#tutorials)
   - [How to](#how-to)
   - [View and Navigation](#view-and-navigation)
@@ -14,15 +14,15 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
   - [Debug](#debug)
   - [Other](#other)
   - [Combine](#combine)
-- [Videos](#videos)
+- [Videos](#-videos)
   - [Apple WWDC 2019](#apple-wwdc-2019)
   - [Tutorials](#tutorials)
-- [Examples](#examples)
+- [Examples](#-examples)
   - [Helpers](#helpers)
   - [Libraries](#libraries)
   - [Apps](#apps)
-- [Courses](#courses)
-- [Books](#books)
+- [Courses](#-courses)
+- [Books](#-books)
   - [SwiftUI](#swiftui)
   - [Combine](#combine)
 
