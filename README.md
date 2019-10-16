@@ -97,6 +97,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77) by Arlind Aliu
 * [SwiftUI & Combine: Better Together](https://medium.com/flawless-app-stories/swiftui-plus-combine-equals-love-791ad444a082) by [Peter Friese](https://www.twitter.com/peterfriese)
 
+
 ## 📺 Videos
 
 ### Apple WWDC 2019
@@ -121,6 +122,14 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Collection View 2019 - Scrolling List in Swift UI](https://youtu.be/AYQHRnYT9Jc) by 
 maxcodes
 * [Swift UI: Working With UIKit](https://www.raywenderlich.com/4279893-swift-ui-working-with-uikit) by raywenderlich.com
+* [State Management Using View Models in SwiftUI](https://youtu.be/kXsOBDymFdI) by azamsharp
+* [Programmatically Navigation to Destination View in SwiftUI](https://youtu.be/-VSbZrBtTGw) by azamsharp
+* [Integrating Core Data with SwiftUI](https://youtu.be/NLA_2DtnHyI) by azamsharp
+* [Understanding ObservableObject in SwiftUI](https://youtu.be/VioWHKN1eKs) by azamsharp
+* [Building Relative Layouts Using GeometryReader in SwiftUI](https://youtu.be/XxZUVDSdfyA) by azamsharp
+* [TabView in SwiftUI](https://youtu.be/yRFzfuqjZao) by azamsharp
+* [Integrating Camera with SwiftUI](https://youtu.be/W60nnRFUGaI) by azamsharp
+* [SwiftUI and Core Data - Build a To-Do List App](https://youtu.be/-BZdQmHV4MQ) by Brian Advent
 
 ## 🛠 Examples
 
@@ -137,6 +146,10 @@ maxcodes
 * [A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack) by pietropizzi
 * [Declarative HTTP networking, designed for SwiftUI](https://github.com/carson-katri/swift-request) by carson-katri
 * [SwiftUI support for drag and drop on iOS](https://github.com/brunogb/SwiftUIDragDrop) by brunogb
+
+### Libraries
+* [Async image loading](https://github.com/cmtrounce/SwURL) by Callum Trounce
+* [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) by Q-Mobile
 
 ### Apps
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) by ivanvorobei
@@ -162,6 +175,8 @@ maxcodes
 * [SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.](https://github.com/lludo/SwiftSunburstDiagram) by lludo
 * [Design+Code app that shows how you can use SwiftUI to create beautiful UI](https://github.com/mythxn/DesignCode) by mythxn
 * [Shopping List app showing how to use SwiftUI with Core Data](https://github.com/ericlewis/ShoppingList) by ericlewis
+
+
 ## 💻 Courses
 
 * [SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/) by DevTechie Interactive
@@ -172,7 +187,7 @@ maxcodes
 
 ## 📖 Books
 * [SwiftUI by Tutorials](https://store.raywenderlich.com/products/swiftui-by-tutorials) by raywenderlich.com
-* [SwiftUI Views](https://www.bigmountainstudio.com/swiftui-views-book) by Mark Moeykens at Big Mountain Studio
 * [Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift) by raywenderlich.com
+* [SwiftUI Views](https://www.bigmountainstudio.com/swiftui-views-book) by Mark Moeykens (Big Mountain Studio)
+* [SwiftUI - Declarative Interfaces for any Apple Device](https://www.udemy.com/course/swiftui-declarative-interfaces-for-any-apple-device/) by Mohammad Azam
 * [Using Combine](https://heckj.github.io/swiftui-notes/) by Joseph Heck
-* [SwiftUI Views] (https://www.bigmountainstudio.com/swiftui-views-book) by Mark Moeykens (Big Mountain Studio)
