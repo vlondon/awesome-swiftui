@@ -6,7 +6,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 - [Articles](#articles)
   - [Tutorials](#tutorials)
   - [How to](#how-to)
-  - [View](#view)
+  - [View](#view-and-navigation)
   - [State and Binding](#state-and-binding)
   - [Architecture](#architecture)
   - [Animations](#animations)
@@ -19,6 +19,7 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
   - [Tutorials](#tutorials)
 - [Examples](#examples)
   - [Helpers](#helpers)
+  - [Libraries](#libraries)
   - [Apps](#apps)
 - [Courses](#courses)
 - [Books](#books)
@@ -26,6 +27,8 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 
 
 ## 📝 Articles 
+
+#### [SwiftUI Cheat Sheet](https://fuckingswiftui.com/)
 
 ### Tutorials
 * [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials) by Apple
@@ -46,17 +49,23 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [How to build a Slide out Menu](https://medium.com/programming-with-swift/create-a-side-menu-with-swiftui-4225c8842d26) by Darren
 * [How to build a TicTacToe game](https://medium.com/@valv0/a-tictactoe-game-in-swiftui-66b24953f467) by Costantino Pistagna
 * [How to build a Simple Countdown Timer](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) by Antoine Barrault
+* [How to build a Slide out Menu](https://medium.com/programming-with-swift/create-a-side-menu-with-swiftui-4225c8842d26) by Darren
 
-### View
+### View and Navigation
 * [Dynamic List & Identifiable](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
 * [Create a Detail View](https://medium.com/@martinlasek/swiftui-detail-view-44772246fa2a) by Martin Lasek
 * [SwiftUI tips and tricks](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks) by Paul Hudson
 * [How to use SwiftUI to Speed Up your View Coding](https://medium.com/@leonardo.dematossouza/how-to-use-swiftui-to-speed-up-your-view-coding-6dbb0fcabc99) by Leonardo Souza
+* [The Simple Life(cycle) of a SwiftUI View](https://medium.com/flawless-app-stories/the-simple-life-cycle-of-a-swiftui-view-95e2e14848a2) by Danny Bolella
+* [Alignment Guides in SwiftUI](https://swiftui-lab.com/alignment-guides/) by javier
+* [Custom navigation view for your applications](https://medium.com/swlh/swiftui-custom-navigation-view-for-your-applications-7f6effa7dbcf) by Dragos Ioneanu
+* [Reusable Components/Higher-Order-Components](https://medium.com/@andreivillasana/swiftui-reusable-components-higher-order-components-192c65375c36) by Andrei Villasana
 
 ### State and Binding
 * [Understanding State](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f) by Martin Lasek
 * [Understanding Binding](https://medium.com/@martinlasek/swiftui-understanding-binding-8e20269a76bc) by Martin Lasek
 * [Understanding Property Wrappers in SwiftUI](https://mecid.github.io/2019/06/12/understanding-property-wrappers-in-swiftui/) by Majid
+* [Redux-like state container in SwiftUI. Basics.](https://mecid.github.io/2019/09/18/redux-like-state-container-in-swiftui/) by Majid
 * [Swift Property Wrappers](https://nshipster.com/propertywrapper/) by Mattt
 
 ### Architecture
@@ -67,6 +76,8 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Animations in SwiftUI](https://mecid.github.io/2019/06/26/animations-in-swiftui/) by Majid
 * [Gestures in SwiftUI](https://mecid.github.io/2019/07/10/gestures-in-swiftui/) by Majid
 * [UI Animations With Swift](https://medium.com/better-programming/ui-animations-with-swift-2ebb5e6d2292) by Xiomara Figueroa
+* [Advanced SwiftUI Animations – Part 1: Paths](https://swiftui-lab.com/swiftui-animations-part1/) by javier
+* [Advanced SwiftUI Animations – Part 2: GeometryEffect](https://swiftui-lab.com/swiftui-animations-part2/) by javier
 
 ### Inside
 * [Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html) by Bruno Rocha
@@ -84,7 +95,6 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Shifting paradigms in Swift](https://www.swiftbysundell.com/posts/shifting-paradigms-in-swift) by John Sundell
 * [Understanding Declarative Programming](https://medium.com/better-programming/swiftui-understanding-declarative-programming-aaf05b2383bd) by Michael Long
 * [Rendering SwiftUI views to HTML](https://worthdoingbadly.com/swiftui-html/) by Zhuowei Zhang]
-* [Reusable Components/Higher-Order-Components](https://medium.com/@andreivillasana/swiftui-reusable-components-higher-order-components-192c65375c36) by Andrei Villasana
 * [SwiftUI: Handling optionals](https://ericasadun.com/2019/06/20/swiftui-handling-optionals/) by Erica Sadun
 * [Improving SwiftUI modal presentation API](https://alejandromp.com/blog/2019/06/24/improving-swiftui-modal-presentation-api/) by Alejandro Martinez
 * [Mixing SwiftUI, Combine, OLX](https://tech.olx.com/mixing-swiftui-combine-olx-636c4f3c4162) by Aleksander Lorenc
@@ -112,6 +122,8 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233) - Learn how previews work, how to optimize the structure of your SwiftUI app for previews, and how to add preview support to your existing views and view controllers
 
 ### Tutorials
+* [Your First iOS and SwiftUI App](https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app) by raywenderlich
+* [Swift UI: Working With UIKit](https://www.raywenderlich.com/4279893-swift-ui-working-with-uikit) by raywenderlich
 * [Facebook Complex Layouts - Horizontal Scroll View](https://www.youtube.com/watch?v=7QgPpvqTfeo) by Lets Build That App
 * [Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays](https://www.youtube.com/watch?v=bz6GTYaIQXU) by Lets Build That App
 * [Fetching JSON and Image Data with BindableObject](https://www.youtube.com/watch?v=xT4wGOc2jd4) by Lets Build That App
@@ -121,7 +133,6 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
 * [SwiftUI Complete Apps](https://www.youtube.com/watch?v=VGJBLlfSN-Y&list=PLuoeXyslFTuaZtX7xSYbWz3TR0Vpz39gK) by Paul Hudson
 * [Collection View 2019 - Scrolling List in Swift UI](https://youtu.be/AYQHRnYT9Jc) by 
 maxcodes
-* [Swift UI: Working With UIKit](https://www.raywenderlich.com/4279893-swift-ui-working-with-uikit) by raywenderlich.com
 * [State Management Using View Models in SwiftUI](https://youtu.be/kXsOBDymFdI) by azamsharp
 * [Programmatically Navigation to Destination View in SwiftUI](https://youtu.be/-VSbZrBtTGw) by azamsharp
 * [Integrating Core Data with SwiftUI](https://youtu.be/NLA_2DtnHyI) by azamsharp
@@ -150,6 +161,7 @@ maxcodes
 ### Libraries
 * [Async image loading](https://github.com/cmtrounce/SwURL) by Callum Trounce
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) by Q-Mobile
+* [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) by Exyte
 
 ### Apps
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) by ivanvorobei
