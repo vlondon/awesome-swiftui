@@ -23,6 +23,8 @@ A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to c
   - [Apps](#apps)
 - [Courses](#courses)
 - [Books](#books)
+  - [SwiftUI](#swiftui)
+  - [Combine](#combine)
 - [More](#more)
 
 
@@ -199,8 +201,14 @@ maxcodes
 
 
 ## 📖 Books
+
+### SwiftUI
+
 * [SwiftUI by Tutorials](https://store.raywenderlich.com/products/swiftui-by-tutorials) by raywenderlich.com
-* [Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift) by raywenderlich.com
 * [SwiftUI Views](https://www.bigmountainstudio.com/swiftui-views-book) by Mark Moeykens (Big Mountain Studio)
 * [SwiftUI - Declarative Interfaces for any Apple Device](https://www.udemy.com/course/swiftui-declarative-interfaces-for-any-apple-device/) by Mohammad Azam
+
+### Combine
+
+* [Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift) by raywenderlich.com
 * [Using Combine](https://heckj.github.io/swiftui-notes/) by Joseph Heck
