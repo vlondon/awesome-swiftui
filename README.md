@@ -171,5 +171,6 @@ maxcodes
 
 ## 📖 Books
 * [SwiftUI by Tutorials](https://store.raywenderlich.com/products/swiftui-by-tutorials) by raywenderlich.com
+* [SwiftUI Views](https://www.bigmountainstudio.com/swiftui-views-book) by Mark Moeykens at Big Mountain Studio
 * [Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift) by raywenderlich.com
 * [Using Combine](https://heckj.github.io/swiftui-notes/) by Joseph Heck
