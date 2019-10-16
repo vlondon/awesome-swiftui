@@ -1,4 +1,4 @@
-A list of articles, tutorials, guides and videos about SwiftUI. **Feel free to contribute!**
+A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Feel free to contribute!**
 
 <img src="awesome-swiftui-banner.png"/>
 
