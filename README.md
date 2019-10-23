@@ -61,6 +61,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Alignment Guides in SwiftUI](https://swiftui-lab.com/alignment-guides/) by javier
 * [Custom navigation view for your applications](https://medium.com/swlh/swiftui-custom-navigation-view-for-your-applications-7f6effa7dbcf) by Dragos Ioneanu
 * [Reusable Components/Higher-Order-Components](https://medium.com/@andreivillasana/swiftui-reusable-components-higher-order-components-192c65375c36) by Andrei Villasana
+* [How to Programmatically Push and Pop Views in SwiftUI with NavigationDestinationLink](https://ryanashcraft.me/swiftui-programmatic-navigation/) by ryanashcraft
 
 ### State and Binding
 * [Understanding State](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f) by Martin Lasek
