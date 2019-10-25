@@ -90,6 +90,9 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 ### Debug
 * [How to use Instruments to profile your SwiftUI code and identify slow layouts](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts) by Paul Hudson
 
+### Opensource Components
+* [Carbode Barcode QRCode scanner component for SwiftUI ](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) by heart
+
 ### Other
 * [Curated list of questions and answers about SwiftUI](https://goshdarnswiftui.com/) by Gosh Darn SwiftUI
 * [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/) by John Sundell
