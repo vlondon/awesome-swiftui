@@ -200,6 +200,7 @@ maxcodes
 * [Design+Code app that shows how you can use SwiftUI to create beautiful UI](https://github.com/mythxn/DesignCode) by mythxn
 * [Shopping List app showing how to use SwiftUI with Core Data](https://github.com/ericlewis/ShoppingList) by ericlewis
 * [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) by Alexey Naumov
+* [Address Book project with Core Data](https://github.com/hbmartin/Directory-SwiftUI) by Harold Martin
 
 ## 💻 Courses
 
