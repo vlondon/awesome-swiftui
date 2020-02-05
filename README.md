@@ -21,6 +21,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 - [Examples](#-examples)
   - [Helpers](#helpers)
   - [Libraries](#libraries)
+  - [Combine](#combine)
   - [Apps](#apps)
 - [Courses](#-courses)
 - [Books](#-books)
@@ -170,11 +171,12 @@ maxcodes
 * [SwiftUI support for drag and drop on iOS](https://github.com/brunogb/SwiftUIDragDrop) by brunogb
 
 ### Libraries
-* <img height="25" src="https://github.com/onurhuseyincantay/Hover/blob/master/HoverIcon.png"/>[Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
 * [Async image loading](https://github.com/cmtrounce/SwURL) by Callum Trounce
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) by Q-Mobile
 * [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) by Exyte
 
+### Combine
+* [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
 
 ### Apps
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) by ivanvorobei
