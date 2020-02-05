@@ -175,6 +175,7 @@ maxcodes
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) by Q-Mobile
 * [ASCollectionView: A SwiftUI collection view](https://github.com/apptekstudios/ASCollectionView) by Apptek Studios
 * [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) by Exyte
+* [Render ring chart, sunburst chart and multilevel pie chart diagrams](https://github.com/lludo/SwiftSunburstDiagram) by lludo
 
 ### Combine
 * [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
@@ -200,7 +201,6 @@ maxcodes
 * [A basic SwiftUI chat app that leverages the new URLSessionWebSocketTask](https://github.com/niazoff/Chat) by niazoff
 * [A simple SwiftUI weather app using MVVM](https://github.com/niazoff/Weather) by niazoff
 * [Koober a ride-hailing app from Advanced iOS App Architecture book](https://github.com/raywenderlich/swiftui-example-app-koober) by raywenderlich
-* [SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.](https://github.com/lludo/SwiftSunburstDiagram) by lludo
 * [Design+Code app that shows how you can use SwiftUI to create beautiful UI](https://github.com/mythxn/DesignCode) by mythxn
 * [Shopping List app showing how to use SwiftUI with Core Data](https://github.com/ericlewis/ShoppingList) by ericlewis
 * [Carbode Barcode QRCode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) by heart
