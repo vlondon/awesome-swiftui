@@ -11,6 +11,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
   - [Architecture](#architecture)
   - [Animations](#animations)
   - [Inside](#inside)
+  - [Unit Testing](#unit-testing)
   - [Debug](#debug)
   - [Other](#other)
   - [Combine](#combine)
@@ -20,6 +21,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 - [Examples](#-examples)
   - [Helpers](#helpers)
   - [Libraries](#libraries)
+  - [Combine](#combine)
   - [Apps](#apps)
 - [Courses](#-courses)
 - [Books](#-books)
@@ -51,6 +53,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [How to build a TicTacToe game](https://medium.com/@valv0/a-tictactoe-game-in-swiftui-66b24953f467) by Costantino Pistagna
 * [How to build a Simple Countdown Timer](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) by Antoine Barrault
 * [How to build a Slide out Menu](https://medium.com/programming-with-swift/create-a-side-menu-with-swiftui-4225c8842d26) by Darren
+* [How to create a side(hamburger) menu](https://www.blckbirds.com/post/side-menu-hamburger-menu-in-swiftui) by blckbirds
 
 ### View and Navigation
 * [Dynamic List & Identifiable](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
@@ -62,6 +65,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Custom navigation view for your applications](https://medium.com/swlh/swiftui-custom-navigation-view-for-your-applications-7f6effa7dbcf) by Dragos Ioneanu
 * [Reusable Components/Higher-Order-Components](https://medium.com/@andreivillasana/swiftui-reusable-components-higher-order-components-192c65375c36) by Andrei Villasana
 * [How to Programmatically Push and Pop Views in SwiftUI with NavigationDestinationLink](https://ryanashcraft.me/swiftui-programmatic-navigation/) by ryanashcraft
+* [Programmatic navigation in SwiftUI project](https://nalexn.github.io/swiftui-deep-linking/?utm_source=awsui1) by Alexey Naumov
 
 ### State and Binding
 * [Understanding State](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f) by Martin Lasek
@@ -73,6 +77,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 ### Architecture
 * [Will Combine kill RxSwift?](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89) by MortyMerr
 * [MVVM in SwiftUI](https://medium.com/@azamsharp/mvvm-in-swiftui-8a2e9cc2964a) by Mohammad Azam
+* [Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/?utm_source=awsui1) by Alexey Naumov
 
 ### Animations
 * [Animations in SwiftUI](https://mecid.github.io/2019/06/26/animations-in-swiftui/) by Majid
@@ -86,6 +91,10 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [What’s this “some” in SwiftUI?](https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4) by Mischa Hildebrand
 * [Swift Opaque Result Types](https://jeroenscode.com/swift-opaque-result-types/) by Baking Swift
 * [Inside SwiftUI (About @State)](https://kateinoigakukun.hatenablog.com/entry/2019/06/09/081831) by kateinoigakukun
+
+### Unit Testing
+* [ViewInspector](https://github.com/nalexn/ViewInspector) by Alexey Naumov
+* [Unit testing SwiftUI views](https://nalexn.github.io/swiftui-unit-testing/?utm_source=awsui1) by Alexey Naumov
 
 ### Debug
 * [How to use Instruments to profile your SwiftUI code and identify slow layouts](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts) by Paul Hudson
@@ -109,7 +118,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77) by Arlind Aliu
 * [SwiftUI & Combine: Better Together](https://medium.com/flawless-app-stories/swiftui-plus-combine-equals-love-791ad444a082) by [Peter Friese](https://www.twitter.com/peterfriese)
 * [Swift Combine Framework Tutorial: Getting Started](https://www.vadimbulavin.com/swift-combine-framework-tutorial-getting-started/) by vadimbulavin
-
+* [Variadic DisposeBag for Combine subscriptions](https://nalexn.github.io/cancelbag-for-combine/?utm_source=awsui1) Alexey Naumov
 
 ## 📺 Videos
 
@@ -164,7 +173,11 @@ maxcodes
 ### Libraries
 * [Async image loading](https://github.com/cmtrounce/SwURL) by Callum Trounce
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) by Q-Mobile
+* [ASCollectionView: A SwiftUI collection view](https://github.com/apptekstudios/ASCollectionView) by Apptek Studios
 * [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) by Exyte
+
+### Combine
+* [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
 
 ### Apps
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) by ivanvorobei
@@ -191,6 +204,7 @@ maxcodes
 * [Design+Code app that shows how you can use SwiftUI to create beautiful UI](https://github.com/mythxn/DesignCode) by mythxn
 * [Shopping List app showing how to use SwiftUI with Core Data](https://github.com/ericlewis/ShoppingList) by ericlewis
 * [Carbode Barcode QRCode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) by heart
+* [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) by Alexey Naumov
 
 
 ## 💻 Courses
