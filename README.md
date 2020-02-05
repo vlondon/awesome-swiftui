@@ -205,6 +205,7 @@ maxcodes
 * [Shopping List app showing how to use SwiftUI with Core Data](https://github.com/ericlewis/ShoppingList) by ericlewis
 * [Carbode Barcode QRCode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) by heart
 * [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) by Alexey Naumov
+* [Address Book project with Core Data](https://github.com/hbmartin/Directory-SwiftUI) by Harold Martin
 
 ## 💻 Courses
 
