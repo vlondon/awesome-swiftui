@@ -206,7 +206,6 @@ maxcodes
 * [Carbode Barcode QRCode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) by heart
 * [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) by Alexey Naumov
 
-
 ## 💻 Courses
 
 * [SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/) by DevTechie Interactive
