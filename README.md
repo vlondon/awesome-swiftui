@@ -22,6 +22,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
   - [Helpers](#helpers)
   - [Libraries](#libraries)
   - [Combine](#combine)
+  - [Open Source Apps](#open-source-apps)
   - [Apps](#apps)
 - [Courses](#-courses)
 - [Books](#-books)
@@ -180,7 +181,7 @@ maxcodes
 ### Combine
 * [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
 
-### Apps
+### Open Source Apps
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) by ivanvorobei
 * [SwiftUI & Combine app using MovieDB API](https://github.com/Dimillian/MovieSwiftUI) by Dimillian
 * [SwiftUI MovieDB prototype app](https://github.com/alfianlosari/SwiftUI-MovieDB) by alfianlosari
@@ -206,6 +207,10 @@ maxcodes
 * [Carbode Barcode QRCode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) by heart
 * [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) by Alexey Naumov
 * [Address Book project with Core Data](https://github.com/hbmartin/Directory-SwiftUI) by Harold Martin
+
+## Apps
+* [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
+
 
 ## 💻 Courses
 
