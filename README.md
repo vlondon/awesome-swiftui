@@ -199,7 +199,7 @@ maxcodes
 * [Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture](https://github.com/PangMo5/AniTime) by PangMo5
 * [A notes app written in >100 lines of swift using SwiftUI](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451) by jnewc
 * [A weather forecast app using the OpenWeather API, MapKit, and SwiftUI!](https://github.com/jhatin94/tempatlas-swiftui) by jhatin94
-* [Hacker News reader built with SwiftUI and Combine](https://github.com/nathfreder/HNNow) by nathfreder
+* [Hacker News reader built with SwiftUI and Combine](https://github.com/woxtu/SwiftUI-HackerNews) by woxtu
 * [Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter) by alexliubj
 * [A basic SwiftUI chat app that leverages the new URLSessionWebSocketTask](https://github.com/niazoff/Chat) by niazoff
 * [A simple SwiftUI weather app using MVVM](https://github.com/niazoff/Weather) by niazoff
