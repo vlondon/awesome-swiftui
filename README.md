@@ -46,7 +46,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Building BarChart with Shape API in SwiftUI](https://mecid.github.io/2019/08/14/building-barchart-with-shape-api-in-swiftui/) by Majid
 
 ### How to
-* [How to build an onboarding screen](https://www.blckbirds.com/post/how-to-create-a-onboarding-screen-in-swiftui-1) by blckbirds
+* [How to build an onboarding screen](https://blckbirds.com/post/how-to-create-a-onboarding-screen-in-swiftui-1/) by blckbirds
 * [How to build a Chat App or Messenger](https://blog.usejournal.com/how-to-build-a-chat-app-or-messenger-in-swiftui-for-ios-swift-b46dbe5cc0ab) by Nick Halavins
 * [How to build a Form UI](https://www.appcoda.com/swiftui-form-ui/) by Simon Ng
 * [How to build a Weather App](https://medium.com/lunabee-studio/building-a-weather-app-with-swiftui-4ec2743ff615) by Benjamin Pisano
@@ -54,30 +54,30 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [How to build a TicTacToe game](https://medium.com/@valv0/a-tictactoe-game-in-swiftui-66b24953f467) by Costantino Pistagna
 * [How to build a Simple Countdown Timer](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) by Antoine Barrault
 * [How to build a Slide out Menu](https://medium.com/programming-with-swift/create-a-side-menu-with-swiftui-4225c8842d26) by Darren
-* [How to create a side(hamburger) menu](https://www.blckbirds.com/post/side-menu-hamburger-menu-in-swiftui) by blckbirds
+* [How to create a side(hamburger) menu](https://blckbirds.com/post/side-menu-hamburger-menu-in-swiftui/) by blckbirds
 
 ### View and Navigation
-* [Dynamic List & Identifiable](https://medium.com/@martinlasek/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
+* [Dynamic List & Identifiable](https://medium.com/flawless-app-stories/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
 * [Create a Detail View](https://medium.com/@martinlasek/swiftui-detail-view-44772246fa2a) by Martin Lasek
 * [SwiftUI tips and tricks](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks) by Paul Hudson
 * [How to use SwiftUI to Speed Up your View Coding](https://medium.com/@leonardo.dematossouza/how-to-use-swiftui-to-speed-up-your-view-coding-6dbb0fcabc99) by Leonardo Souza
 * [The Simple Life(cycle) of a SwiftUI View](https://medium.com/flawless-app-stories/the-simple-life-cycle-of-a-swiftui-view-95e2e14848a2) by Danny Bolella
 * [Alignment Guides in SwiftUI](https://swiftui-lab.com/alignment-guides/) by javier
 * [Custom navigation view for your applications](https://medium.com/swlh/swiftui-custom-navigation-view-for-your-applications-7f6effa7dbcf) by Dragos Ioneanu
-* [Reusable Components/Higher-Order-Components](https://medium.com/@andreivillasana/swiftui-reusable-components-higher-order-components-192c65375c36) by Andrei Villasana
-* [How to Programmatically Push and Pop Views in SwiftUI with NavigationDestinationLink](https://ryanashcraft.me/swiftui-programmatic-navigation/) by ryanashcraft
+* [Reusable Components/Higher-Order-Components](https://medium.com/better-programming/swiftui-reusable-components-higher-order-components-192c65375c36) by Andrei Villasana
+* [How to Programmatically Push and Pop Views in SwiftUI with NavigationDestinationLink](https://ryanashcraft.com/swiftui-programmatic-navigation/) by ryanashcraft
 * [Programmatic navigation in SwiftUI project](https://nalexn.github.io/swiftui-deep-linking/?utm_source=awsui1) by Alexey Naumov
 
 ### State and Binding
-* [Understanding State](https://medium.com/@martinlasek/swiftui-understanding-state-8afa23fd9f1f) by Martin Lasek
-* [Understanding Binding](https://medium.com/@martinlasek/swiftui-understanding-binding-8e20269a76bc) by Martin Lasek
+* [Understanding State](https://medium.com/flawless-app-stories/swiftui-understanding-state-8afa23fd9f1f) by Martin Lasek
+* [Understanding Binding](https://medium.com/flawless-app-stories/swiftui-understanding-binding-8e20269a76bc) by Martin Lasek
 * [Understanding Property Wrappers in SwiftUI](https://mecid.github.io/2019/06/12/understanding-property-wrappers-in-swiftui/) by Majid
 * [Redux-like state container in SwiftUI. Basics.](https://mecid.github.io/2019/09/18/redux-like-state-container-in-swiftui/) by Majid
 * [Swift Property Wrappers](https://nshipster.com/propertywrapper/) by Mattt
 
 ### Architecture
 * [Will Combine kill RxSwift?](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89) by MortyMerr
-* [MVVM in SwiftUI](https://medium.com/@azamsharp/mvvm-in-swiftui-8a2e9cc2964a) by Mohammad Azam
+* [MVVM in SwiftUI](https://medium.com/flawless-app-stories/mvvm-in-swiftui-8a2e9cc2964a) by Mohammad Azam
 * [Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/?utm_source=awsui1) by Alexey Naumov
 
 ### Animations
@@ -104,11 +104,11 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Curated list of questions and answers about SwiftUI](https://goshdarnswiftui.com/) by Gosh Darn SwiftUI
 * [Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/) by John Sundell
 * [A first look at SwiftUI: Apple’s declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/) by John Sundell
-* [Shifting paradigms in Swift](https://www.swiftbysundell.com/posts/shifting-paradigms-in-swift) by John Sundell
+* [Shifting paradigms in Swift](https://www.swiftbysundell.com/articles/shifting-paradigms-in-swift) by John Sundell
 * [Understanding Declarative Programming](https://medium.com/better-programming/swiftui-understanding-declarative-programming-aaf05b2383bd) by Michael Long
 * [Rendering SwiftUI views to HTML](https://worthdoingbadly.com/swiftui-html/) by Zhuowei Zhang]
 * [SwiftUI: Handling optionals](https://ericasadun.com/2019/06/20/swiftui-handling-optionals/) by Erica Sadun
-* [Improving SwiftUI modal presentation API](https://alejandromp.com/blog/2019/06/24/improving-swiftui-modal-presentation-api/) by Alejandro Martinez
+* [Improving SwiftUI modal presentation API](https://alejandromp.com/blog/improving-swiftui-modal-presentation-api) by Alejandro Martinez
 * [Mixing SwiftUI, Combine, OLX](https://tech.olx.com/mixing-swiftui-combine-olx-636c4f3c4162) by Aleksander Lorenc
 * [The missing :SwiftWebUI](http://www.alwaysrightinstitute.com/swiftwebui/) by alwaysrightinstitute
 * [Rasterizing SwiftUI views from the Command-Line](https://medium.com/@eneko/rasterizing-swiftui-views-from-the-command-line-80d974356c4a) by Eneko Alonso
@@ -117,7 +117,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Combine
 * [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77) by Arlind Aliu
-* [SwiftUI & Combine: Better Together](https://medium.com/flawless-app-stories/swiftui-plus-combine-equals-love-791ad444a082) by [Peter Friese](https://www.twitter.com/peterfriese)
+* [SwiftUI & Combine: Better Together](https://medium.com/flawless-app-stories/swiftui-plus-combine-equals-love-791ad444a082) by [Peter Friese](https://twitter.com/peterfriese)
 * [Swift Combine Framework Tutorial: Getting Started](https://www.vadimbulavin.com/swift-combine-framework-tutorial-getting-started/) by vadimbulavin
 * [Variadic DisposeBag for Combine subscriptions](https://nalexn.github.io/cancelbag-for-combine/?utm_source=awsui1) Alexey Naumov
 
@@ -199,12 +199,12 @@ maxcodes
 * [Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture](https://github.com/PangMo5/AniTime) by PangMo5
 * [A notes app written in >100 lines of swift using SwiftUI](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451) by jnewc
 * [A weather forecast app using the OpenWeather API, MapKit, and SwiftUI!](https://github.com/jhatin94/tempatlas-swiftui) by jhatin94
-* [Hacker News reader built with SwiftUI and Combine](https://github.com/nathfreder/HackerNews) by nathfreder
+* [Hacker News reader built with SwiftUI and Combine](https://github.com/nathfreder/HNNow) by nathfreder
 * [Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter) by alexliubj
 * [A basic SwiftUI chat app that leverages the new URLSessionWebSocketTask](https://github.com/niazoff/Chat) by niazoff
 * [A simple SwiftUI weather app using MVVM](https://github.com/niazoff/Weather) by niazoff
 * [Koober a ride-hailing app from Advanced iOS App Architecture book](https://github.com/raywenderlich/swiftui-example-app-koober) by raywenderlich
-* [Design+Code app that shows how you can use SwiftUI to create beautiful UI](https://github.com/mythxn/DesignCode) by mythxn
+* [Design+Code app that shows how you can use SwiftUI to create beautiful UI](https://github.com/mythxn/DesignCode-SwiftUI) by mythxn
 * [Shopping List app showing how to use SwiftUI with Core Data](https://github.com/ericlewis/ShoppingList) by ericlewis
 * [Carbode Barcode QRCode scanner](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) by heart
 * [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) by Alexey Naumov
@@ -216,10 +216,10 @@ maxcodes
 
 ## 💻 Courses
 
-* [SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/) by DevTechie Interactive
-* [SwiftUI - Declarative Interfaces for any Apple Device](https://www.udemy.com/swiftui-declarative-interfaces-for-any-apple-device/?couponCode=SWIFTUIMEDIUM) by Mohammad Azam
+* [SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/course/swiftui-quick-start-guide-with-ios-13-and-xcode-11/) by DevTechie Interactive
+* [SwiftUI - Declarative Interfaces for any Apple Device](https://www.udemy.com/course/swiftui-declarative-interfaces-for-any-apple-device/?couponCode=SWIFTUIMEDIUM) by Mohammad Azam
 * [Learn SwiftUI](https://learn.designcode.io/swiftui) by Meng To
-* [Build an app with SwiftUI](https://designcode.io/swiftui) by Meng To
+* [Build an app with SwiftUI](https://designcode.io/swiftui/) by Meng To
 
 
 ## 📖 Books
