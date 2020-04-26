@@ -178,6 +178,7 @@ maxcodes
 * [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) by Exyte
 * [Render ring chart, sunburst chart and multilevel pie chart diagrams](https://github.com/lludo/SwiftSunburstDiagram) by lludo
 * [SwiftSpeech: A speech recognition framework designed for SwiftUI](https://github.com/Cay-Zhang/SwiftSpeech) by Cay Zhang
+* [CardStack: A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS](https://github.com/dadalar/SwiftUI-CardStackView) by Deniz Adalar
 
 ### Combine
 * [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
