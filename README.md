@@ -179,6 +179,7 @@ maxcodes
 * [Render ring chart, sunburst chart and multilevel pie chart diagrams](https://github.com/lludo/SwiftSunburstDiagram) by lludo
 * [SwiftSpeech: A speech recognition framework designed for SwiftUI](https://github.com/Cay-Zhang/SwiftSpeech) by Cay Zhang
 * [CardStack: A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS](https://github.com/dadalar/SwiftUI-CardStackView) by Deniz Adalar
+* [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) by Sindre Sorhus
 
 ### Combine
 * [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
