@@ -180,6 +180,7 @@ maxcodes
 * [SwiftSpeech: A speech recognition framework designed for SwiftUI](https://github.com/Cay-Zhang/SwiftSpeech) by Cay Zhang
 * [CardStack: A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS](https://github.com/dadalar/SwiftUI-CardStackView) by Deniz Adalar
 * [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) by Sindre Sorhus
+* [Preferences: Create a macOS preferences window in SwiftUI](https://github.com/sindresorhus/Preferences#swiftui-support) by Sindre Sorhus
 
 ### Combine
 * [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
