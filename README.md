@@ -74,6 +74,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Understanding Property Wrappers in SwiftUI](https://mecid.github.io/2019/06/12/understanding-property-wrappers-in-swiftui/) by Majid
 * [Redux-like state container in SwiftUI. Basics.](https://mecid.github.io/2019/09/18/redux-like-state-container-in-swiftui/) by Majid
 * [Swift Property Wrappers](https://nshipster.com/propertywrapper/) by Mattt
+* [Conditional views in SwiftUI](https://medium.com/@iosdev/conditional-views-in-swiftui-dc09c808bc30#95f6-9e0f877be7d4) by Vladimirs Matusevics
 
 ### Architecture
 * [Will Combine kill RxSwift?](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89) by MortyMerr
