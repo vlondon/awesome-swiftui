@@ -115,6 +115,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Rasterizing SwiftUI views from the Command-Line](https://medium.com/@eneko/rasterizing-swiftui-views-from-the-command-line-80d974356c4a) by Eneko Alonso
 * [A Brief Tour of Swift UI](https://www.bignerdranch.com/blog/a-brief-tour-of-swift-ui/) by Amit Bijlani
 * [Why You Should Consider SwiftUI for Your Next Project](https://medium.com/better-programming/why-you-should-consider-swiftui-for-your-next-project-2d67a7e3745e) by Thomas Ricouard
+* [What is new in SwiftUI](https://swiftwithmajid.com/2020/06/23/what-is-new-in-swiftui/) by mecid
 
 ### Combine
 * [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77) by Arlind Aliu
