@@ -214,6 +214,7 @@ maxcodes
 * [Clean Architecture for SwiftUI demo app](https://github.com/nalexn/clean-architecture-swiftui) by Alexey Naumov
 * [Address Book project with Core Data](https://github.com/hbmartin/Directory-SwiftUI) by Harold Martin
 * [Imgur app with SwiftUI and Combine using MVVM](https://github.com/YetAnotherRzmn/Imgur.iOS) by Nikita Razumnyi
+* [Mac app that shows pull request last modified each line of a file](https://github.com/maoyama/GitBlamePR) by maoyama
 
 ## Apps
 * [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
