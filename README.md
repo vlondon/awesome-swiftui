@@ -208,6 +208,7 @@ maxcodes
 * [Hacker News reader built with SwiftUI and Combine](https://github.com/woxtu/SwiftUI-HackerNews) by woxtu
 * [Currency Converter App](https://github.com/alexliubj/SwiftUI-Currency-Converter) by alexliubj
 * [A basic SwiftUI chat app that leverages the new URLSessionWebSocketTask](https://github.com/niazoff/Chat) by niazoff
+* [A simple todo / task app built using swiftui](https://github.com/LunarColony/SwiftUI-Tasks-App) by LunarColony
 * [A simple SwiftUI weather app using MVVM](https://github.com/niazoff/Weather) by niazoff
 * [Koober a ride-hailing app from Advanced iOS App Architecture book](https://github.com/raywenderlich/swiftui-example-app-koober) by raywenderlich
 * [Design+Code app that shows how you can use SwiftUI to create beautiful UI](https://github.com/mythxn/DesignCode-SwiftUI) by mythxn
