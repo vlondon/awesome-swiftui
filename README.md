@@ -53,7 +53,6 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [How to build a Slide out Menu](https://medium.com/programming-with-swift/create-a-side-menu-with-swiftui-4225c8842d26) by Darren
 * [How to build a TicTacToe game](https://medium.com/@valv0/a-tictactoe-game-in-swiftui-66b24953f467) by Costantino Pistagna
 * [How to build a Simple Countdown Timer](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) by Antoine Barrault
-* [How to build a Slide out Menu](https://medium.com/programming-with-swift/create-a-side-menu-with-swiftui-4225c8842d26) by Darren
 * [How to create a side(hamburger) menu](https://blckbirds.com/post/side-menu-hamburger-menu-in-swiftui/) by blckbirds
 
 ### View and Navigation
