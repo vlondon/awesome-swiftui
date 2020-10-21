@@ -221,6 +221,7 @@ maxcodes
 
 ## Apps
 * [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
+* [Photo Widget](https://apps.apple.com/app/id1532588789) by Sindre Sorhus
 
 
 ## 💻 Courses
