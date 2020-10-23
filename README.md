@@ -135,6 +135,20 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219/) - Of course you can now build watchOS Apps with SwiftUI.
 * [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233) - Learn how previews work, how to optimize the structure of your SwiftUI app for previews, and how to add preview support to your existing views and view controllers
 
+### Apple WWDC 2020
+
+* [Introduction to SwiftUI](https://developer.apple.com/wwdc20/10119) - Great start for the ones who are new to SwiftUI or just need a recap on SwiftUI updated for Xcode 12 and multi-platform Apps.
+* [Visually edit SwiftUI views](https://developer.apple.com/wwdc20/10185) - Building a view in the Xcode preview canvas.
+* [Build a SwiftUI view in Swift playgrounds](https://developer.apple.com/wwdc20/10643) - Prototyping SwiftUI views using Swift playgrounds on an iPad.
+* [What’s new in SwiftUI](https://developer.apple.com/wwdc20/10041) - An essential session that covers all the new in latest SwoftUI.
+* [Stacks, Grids, and Outlines in SwiftUI](https://developer.apple.com/wwdc20/10031) - Lazy stacks and grids, sidebar lists and outlines.
+* [App essentials in Swift UI](https://developer.apple.com/wwdc20/10037) - No more AppDelegate and SceneDelegate. Improved scene based state restoration.
+* [Data essentials in SwiftUI](https://developer.apple.com/wwdc20/10040) - Let's recap on data flow in SwiftUI and get famialiar with @StateObject, @SceneStorage and @AppStorage.
+* [Build document-based apps in SwiftUI](https://developer.apple.com/wwdc20/10037) - Introduction th DocumentGroup for document based apps.
+* [Add custom views and modifiers to the Xcode library](https://developer.apple.com/wwdc20/10649) - Great addition to Xcode 12 making it easy to share views and modifiers.
+* [Structure your app for SwiftUI previews](https://developer.apple.com/wwdc20/10149) - Great session with lots of tips, especially the section on where to put sample preview data.
+* [Build SwiftUI views for widgets](https://developer.apple.com/wwdc20/10033) - Let's build a Widget using SwiftUI views.
+
 ### Tutorials
 * [Your First iOS and SwiftUI App](https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app) by raywenderlich
 * [Swift UI: Working With UIKit](https://www.raywenderlich.com/4279893-swift-ui-working-with-uikit) by raywenderlich
