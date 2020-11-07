@@ -46,6 +46,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Building BarChart with Shape API in SwiftUI](https://mecid.github.io/2019/08/14/building-barchart-with-shape-api-in-swiftui/) by Majid
 
 ### How to
+* [How to build a phone number text field](https://benjaminlsage.medium.com/format-phone-numbers-entirely-in-swiftui-9456f52990a1) by icyhovercraft
 * [How to build an onboarding screen](https://blckbirds.com/post/how-to-create-a-onboarding-screen-in-swiftui-1/) by blckbirds
 * [How to build a Chat App or Messenger](https://blog.usejournal.com/how-to-build-a-chat-app-or-messenger-in-swiftui-for-ios-swift-b46dbe5cc0ab) by Nick Halavins
 * [How to build a Form UI](https://www.appcoda.com/swiftui-form-ui/) by Simon Ng
@@ -154,6 +155,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Swift UI: Working With UIKit](https://www.raywenderlich.com/4279893-swift-ui-working-with-uikit) by raywenderlich
 * [Facebook Complex Layouts - Horizontal Scroll View](https://www.youtube.com/watch?v=7QgPpvqTfeo) by Lets Build That App
 * [Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays](https://www.youtube.com/watch?v=bz6GTYaIQXU) by Lets Build That App
+* [Format phone numbers as they're typed](https://www.youtube.com/watch?v=4SnmiWFvolM&ab_channel=WhatisiSwiftUI%3F) by What is iSwiftUI?
 * [Fetching JSON and Image Data with BindableObject](https://www.youtube.com/watch?v=xT4wGOc2jd4) by Lets Build That App
 * [Reactive Intro: State Management and Bindings](https://www.youtube.com/watch?v=l7vkP6WW6Yk) by Lets Build That App
 * [Simple SwiftUI Application](https://www.youtube.com/watch?v=Pfw7zWxchQc) by Brian Advent
@@ -176,6 +178,7 @@ maxcodes
 * [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui/) by Paul Hudson
 * [Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI) by Jinxiansen
 * [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) by SimpleBoilerplates
+* [SwiftUI phone number text field](https://github.com/MojtabaHs/iPhoneNumberField) by MojtabaHs
 * [SwiftUI Image view that displays an image downloaded from provided URL](https://github.com/dmytro-anokhin/url-image) by Dmytro Anokhin
 * [A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets](https://github.com/a2/KeyboardAvoiding) by a2
 * [Re-implementation of @binding and @State](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8) by AliSoftware
