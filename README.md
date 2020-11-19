@@ -131,9 +131,9 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/) - How to use data in SwiftUI. A single source of truth. Explains the difference between a simple property, BindableObject, @Environment, @Binding and @State
 * [Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237/) - Dave Abrahams, with a brief appearance from Crusty, digs deeper into how the layout process works. Second part is an impressive demo of how to use graphics to draw custom controls
 * [Integrating SwiftUI](https://developer.apple.com/videos/play/wwdc2019/231/) - Use a hosting controller to wrap SwiftUI for use in your existing App. Use the Representable protocol to wrap existing UIKit/AppKit/WatchKit views to use in SwiftUI. Use the BindableObject protocol to integrate external data
-* [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233/) - Great demos on how Xcode previews makes working with SwiftUI so easy
+* [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233/) - Great demos on how Xcode previews make working with SwiftUI so easy
 * [Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238/) - You get a lot for free in SwiftUI but you’ll likely need to tweak some things (as with UIKit). API for setting labels, traits, actions, etc.
-* [SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219/) - Of course you can now build watchOS Apps with SwiftUI.
+* [SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219/) - Of course, you can now build watchOS Apps with SwiftUI.
 * [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233) - Learn how previews work, how to optimize the structure of your SwiftUI app for previews, and how to add preview support to your existing views and view controllers
 
 ### Apple WWDC 2020
@@ -141,7 +141,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Introduction to SwiftUI](https://developer.apple.com/wwdc20/10119) - Great start for the ones who are new to SwiftUI or just need a recap on SwiftUI updated for Xcode 12 and multi-platform Apps.
 * [Visually edit SwiftUI views](https://developer.apple.com/wwdc20/10185) - Building a view in the Xcode preview canvas.
 * [Build a SwiftUI view in Swift playgrounds](https://developer.apple.com/wwdc20/10643) - Prototyping SwiftUI views using Swift playgrounds on an iPad.
-* [What’s new in SwiftUI](https://developer.apple.com/wwdc20/10041) - An essential session that covers all the new in latest SwoftUI.
+* [What’s new in SwiftUI](https://developer.apple.com/wwdc20/10041) - An essential session that covers all the new in latest SwiftUI.
 * [Stacks, Grids, and Outlines in SwiftUI](https://developer.apple.com/wwdc20/10031) - Lazy stacks and grids, sidebar lists and outlines.
 * [App essentials in Swift UI](https://developer.apple.com/wwdc20/10037) - No more AppDelegate and SceneDelegate. Improved scene based state restoration.
 * [Data essentials in SwiftUI](https://developer.apple.com/wwdc20/10040) - Let's recap on data flow in SwiftUI and get famialiar with @StateObject, @SceneStorage and @AppStorage.
