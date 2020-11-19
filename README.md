@@ -1,5 +1,7 @@
 A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Feel free to contribute!**
 
+#### If you have a great content to share and want people to know about it ASAP then join our [Reddit Community](https://www.reddit.com/r/AwesomeSwiftUI/).
+
 <img src="awesome-swiftui-banner.png"/>
 
 ### Content
