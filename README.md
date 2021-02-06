@@ -46,6 +46,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Beginner SwiftUI Tutorials](https://swiftuihub.com/beginner-swiftui-tutorials/) by SwiftUI Hub
 * [Making a Real World Application With SwiftUI](https://medium.com/better-programming/making-a-real-world-application-with-swiftui-cb40884c1056) by Thomas Ricouard
 * [Building BarChart with Shape API in SwiftUI](https://mecid.github.io/2019/08/14/building-barchart-with-shape-api-in-swiftui/) by Majid
+* [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) by Paul Hudson
 
 ### How to
 * [How to build a phone number text field](https://benjaminlsage.medium.com/format-phone-numbers-entirely-in-swiftui-9456f52990a1) by icyhovercraft
@@ -57,6 +58,9 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [How to build a TicTacToe game](https://medium.com/@valv0/a-tictactoe-game-in-swiftui-66b24953f467) by Costantino Pistagna
 * [How to build a Simple Countdown Timer](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986) by Antoine Barrault
 * [How to create a side(hamburger) menu](https://blckbirds.com/post/side-menu-hamburger-menu-in-swiftui/) by blckbirds
+* [How to Implement Sign In With SwiftUI and AWS Amplify](https://medium.com/better-programming/sign-in-with-aws-amplify-and-swiftui-978b01a5cf10) by Victor Sanchez
+* [Build Mobile Serverless Apps Using Amazon Aurora, Amplify, and SwiftUI](https://medium.com/better-programming/build-mobile-serverless-apps-using-amazon-aurora-amplify-and-swiftui-7562ecb7df9a) by Victor Sanchez
+* [Build an Object Detection App Using Amazon Rekognition, Amplify, and SwiftUI](https://medium.com/better-programming/build-an-object-detection-app-using-amazon-rekognition-amplify-and-swiftui-20b51dd0024b) by Victor Sanchez
 
 ### View and Navigation
 * [Dynamic List & Identifiable](https://medium.com/flawless-app-stories/swiftui-dynamic-list-identifiable-73c56215f9ff) by Martin Lasek
@@ -102,6 +106,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 ### Debug
 * [How to use Instruments to profile your SwiftUI code and identify slow layouts](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts) by Paul Hudson
+* [Building SwiftUI debugging utilities](https://www.swiftbysundell.com/articles/building-swiftui-debugging-utilities/) by John Sundell
 
 ### Other
 * [Curated list of questions and answers about SwiftUI](https://goshdarnswiftui.com/) by Gosh Darn SwiftUI
@@ -211,7 +216,7 @@ maxcodes
 
 ### Open Source Apps
 * [Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.](https://github.com/ivanvorobei/SwiftUI) by ivanvorobei
-* [SwiftUI & Combine app using MovieDB API](https://github.com/Dimillian/MovieSwiftUI) by Dimillian
+* [SwiftUI & Combine app using MovieDB API](https://github.com/Dimillian/MovieSwiftUI) by Dimillian (Thomas Ricouard)
 * [SwiftUI MovieDB prototype app](https://github.com/alfianlosari/SwiftUI-MovieDB) by alfianlosari
 * [SwiftUI and Combine based GitHubSearch example](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI) by marty-suzuki
 * [This is an example project of SwiftUI and Combine using GitHub API](https://github.com/ra1028/SwiftUI-Combine) by ra1028
@@ -237,6 +242,7 @@ maxcodes
 * [Address Book project with Core Data](https://github.com/hbmartin/Directory-SwiftUI) by Harold Martin
 * [Imgur app with SwiftUI and Combine using MVVM](https://github.com/YetAnotherRzmn/Imgur.iOS) by Nikita Razumnyi
 * [Mac app that shows pull request last modified each line of a file](https://github.com/maoyama/GitBlamePR) by maoyama
+* [Animal Crossing New Horizons Companion App](https://github.com/Dimillian/ACHNBrowserUI) by Dimillian (Thomas Ricouard)
 
 ## Apps
 * [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
