@@ -178,6 +178,7 @@ maxcodes
 * [TabView in SwiftUI](https://youtu.be/yRFzfuqjZao) by azamsharp
 * [Integrating Camera with SwiftUI](https://youtu.be/W60nnRFUGaI) by azamsharp
 * [SwiftUI and Core Data - Build a To-Do List App](https://youtu.be/-BZdQmHV4MQ) by Brian Advent
+* [Add a Voice Interface (wakeword, speech to text, text to speech) in Swift](https://www.spokestack.io/blog/integrating-spokestack-in-ios) by Cory D. Wiles
 
 ## 🛠 Examples
 
@@ -210,6 +211,7 @@ maxcodes
 * [SharedObject: A new property wrapper for SwiftUI `ObservableObject`](https://github.com/lorenzofiamingo/SwiftUI-SharedObject)
 * [FontIcon: Bring Material, Font Awesome 5, Ionicons font icons into SwiftUI](https://github.com/huybuidac/SwiftUIFontIcon) by Huy Bui Dac
 * [SyntaxHighlight: TextMate-style syntax highlighting for SwiftUI](https://github.com/maoyama/SyntaxHighlight) by maoyama
+* [Spokestack Tray](https://github.com/spokestack/spokestack-tray-ios) by Spokestack
 
 ### Combine
 * [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
@@ -243,6 +245,7 @@ maxcodes
 * [Imgur app with SwiftUI and Combine using MVVM](https://github.com/YetAnotherRzmn/Imgur.iOS) by Nikita Razumnyi
 * [Mac app that shows pull request last modified each line of a file](https://github.com/maoyama/GitBlamePR) by maoyama
 * [Animal Crossing New Horizons Companion App](https://github.com/Dimillian/ACHNBrowserUI) by Dimillian (Thomas Ricouard)
+* [Voice-enabled RSS Reader](https://github.com/spokestack/SpokestackExamples) by Cory D. Wiles
 
 ## Apps
 * [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
