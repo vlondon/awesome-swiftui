@@ -243,6 +243,7 @@ maxcodes
 * [Imgur app with SwiftUI and Combine using MVVM](https://github.com/YetAnotherRzmn/Imgur.iOS) by Nikita Razumnyi
 * [Mac app that shows pull request last modified each line of a file](https://github.com/maoyama/GitBlamePR) by maoyama
 * [Animal Crossing New Horizons Companion App](https://github.com/Dimillian/ACHNBrowserUI) by Dimillian (Thomas Ricouard)
+* [DEV multiplatform application (SwiftUI + Composable Architecture)](https://github.com/hadiidbouk/DEV) by Dimillian (Hadi Dbouk)
 
 ## Apps
 * [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
