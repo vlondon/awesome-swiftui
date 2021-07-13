@@ -262,10 +262,14 @@ maxcodes
 ### SwiftUI
 
 * [SwiftUI by Tutorials](https://store.raywenderlich.com/products/swiftui-by-tutorials) by raywenderlich.com
-* [SwiftUI Views](https://www.bigmountainstudio.com/swiftui-views-book) by Mark Moeykens (Big Mountain Studio)
+* [SwiftUI Views Quick Start (FREE)](https://www.bigmountainstudio.com/free-swiftui-book) by Mark Moeykens (Big Mountain Studio)
+* [SwiftUI Views Mastery](https://www.bigmountainstudio.com/swiftui-views-book) by Mark Moeykens (Big Mountain Studio)
+* [SwiftUI Animations Mastery](https://www.bigmountainstudio.com/swiftui-animations) by Mark Moeykens (Big Mountain Studio)
+* [Working with Data in SwiftUI](https://www.bigmountainstudio.com/data) by Mark Moeykens (Big Mountain Studio)
 * [SwiftUI - Declarative Interfaces for any Apple Device](https://www.udemy.com/course/swiftui-declarative-interfaces-for-any-apple-device/) by Mohammad Azam
 
 ### Combine
 
+* [Combine Mastery in SwiftUI](https://www.bigmountainstudio.com/combine) by Mark Moeykens (Big Mountain Studio)
 * [Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift) by raywenderlich.com
 * [Using Combine](https://heckj.github.io/swiftui-notes/) by Joseph Heck
