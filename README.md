@@ -207,9 +207,10 @@ maxcodes
 * [Defaults: `@State` replacement for UserDefaults](https://github.com/sindresorhus/Defaults#swiftui-support) by Sindre Sorhus
 * [Preferences: Create a macOS preferences window in SwiftUI](https://github.com/sindresorhus/Preferences#swiftui-support) by Sindre Sorhus
 * [KeyboardShortcuts: SwiftUI control to set global keyboard shortcuts in your macOS app](https://github.com/sindresorhus/KeyboardShortcuts) by Sindre Sorhus
-* [SharedObject: A new property wrapper for SwiftUI `ObservableObject`](https://github.com/lorenzofiamingo/SwiftUI-SharedObject)
+* [SharedObject: A new property wrapper for SwiftUI `ObservableObject`](https://github.com/lorenzofiamingo/SwiftUI-SharedObject) by Lorenzo Fiamingo
 * [FontIcon: Bring Material, Font Awesome 5, Ionicons font icons into SwiftUI](https://github.com/huybuidac/SwiftUIFontIcon) by Huy Bui Dac
 * [SyntaxHighlight: TextMate-style syntax highlighting for SwiftUI](https://github.com/maoyama/SyntaxHighlight) by maoyama
+* [CachedAsyncImage: The simplest way to add cache to your AsyncImage](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage) by Lorenzo Fiamingo
 
 ### Combine
 * [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
