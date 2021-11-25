@@ -247,7 +247,10 @@ maxcodes
 ## Apps
 * [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
 * [Photo Widget](https://apps.apple.com/app/id1532588789) by Sindre Sorhus
-
+* [Native Youtube](https://github.com/Aayush9029/NativeYoutube) by Aayush 
+* [Native Twitch](https://github.com/Aayush9029/NativeTwitch) by Aayush 
+* [Native Twitch Chat](https://github.com/Aayush9029/NativeChat) by Aayush 
+* [Better Weather](https://github.com/Aayush9029/BetterWeather) by Aayush 
 
 ## 💻 Courses
 
