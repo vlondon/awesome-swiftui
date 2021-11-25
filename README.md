@@ -243,14 +243,21 @@ maxcodes
 * [Imgur app with SwiftUI and Combine using MVVM](https://github.com/YetAnotherRzmn/Imgur.iOS) by Nikita Razumnyi
 * [Mac app that shows pull request last modified each line of a file](https://github.com/maoyama/GitBlamePR) by maoyama
 * [Animal Crossing New Horizons Companion App](https://github.com/Dimillian/ACHNBrowserUI) by Dimillian (Thomas Ricouard)
-
-## Apps
-* [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
-* [Photo Widget](https://apps.apple.com/app/id1532588789) by Sindre Sorhus
 * [Native Youtube](https://github.com/Aayush9029/NativeYoutube) by Aayush 
 * [Native Twitch](https://github.com/Aayush9029/NativeTwitch) by Aayush 
 * [Native Twitch Chat](https://github.com/Aayush9029/NativeChat) by Aayush 
 * [Better Weather](https://github.com/Aayush9029/BetterWeather) by Aayush 
+
+## Apps
+* [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
+* [Photo Widget](https://apps.apple.com/app/id1532588789) by Sindre Sorhus
+* [RiFi](https://apps.apple.com/us/app/rifi/id1567296199) by Aayush
+* [Siro](https://apps.apple.com/us/app/siro-laugh-a-little/id1546323239) by Aayush
+* [Readr](https://apps.apple.com/us/app/readr-modern-text-editor/id1594027437) by Aayush
+* [IDL](https://apps.apple.com/us/app/ill-do-it-later/id1540174159) bt Aayush
+* [QR Tool](https://apps.apple.com/us/app/qrtool-bar-code-scanner/id1566802831) by Aayush
+* [Kenobi](https://apps.apple.com/us/app/qrtool-bar-code-scanner/id1566802831) *watchOS app* by Aayush
+* [Dezn](https://apps.apple.com/us/developer/aayush-pokharel/id1532440924) by Aayush
 
 ## 💻 Courses
 
