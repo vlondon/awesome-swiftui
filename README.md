@@ -210,6 +210,15 @@ maxcodes
 * [SharedObject: A new property wrapper for SwiftUI `ObservableObject`](https://github.com/lorenzofiamingo/SwiftUI-SharedObject)
 * [FontIcon: Bring Material, Font Awesome 5, Ionicons font icons into SwiftUI](https://github.com/huybuidac/SwiftUIFontIcon) by Huy Bui Dac
 * [SyntaxHighlight: TextMate-style syntax highlighting for SwiftUI](https://github.com/maoyama/SyntaxHighlight) by maoyama
+* [Toasts and popups library](https://github.com/exyte/PopupView) by Exyte
+* [The most powerful Grid container](https://github.com/exyte/Grid) by Exyte  
+* [A scroll view with a sticky header which shrinks as you scroll](https://github.com/exyte/ScalingHeaderScrollView) by Exyte
+* [Customizable media picker](https://github.com/exyte/mediapicker) by Exyte
+* [Floating button menu](https://github.com/exyte/FloatingButton) by Exyte
+* [Animated loading indicators](https://github.com/exyte/ActivityIndicatorView) by Exyte
+* [Animated progress indicators](https://github.com/exyte/ProgressIndicatorView) by Exyte
+* [SVG parser](https://github.com/exyte/SVGView) by Exyte
+* [Liquid navigation animation](https://github.com/exyte/LiquidSwipe) by Exyte
 
 ### Combine
 * [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
