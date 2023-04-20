@@ -200,7 +200,18 @@ maxcodes
 * [Async image loading](https://github.com/cmtrounce/SwURL) by Callum Trounce
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) by Q-Mobile
 * [ASCollectionView: A SwiftUI collection view](https://github.com/apptekstudios/ASCollectionView) by Apptek Studios
+* [Toasts and popups library](https://github.com/exyte/PopupView) by Exyte
+* [The most powerful Grid container](https://github.com/exyte/Grid) by Exyte
+* [A scroll view with a sticky header which shrinks as you scroll](https://github.com/exyte/ScalingHeaderScrollView) by Exyte
+* [A tabbar with a number of preset animations](https://github.com/exyte/AnimatedTabBar) by Exyte
+* [Customizable media picker](https://github.com/exyte/mediapicker) by Exyte
+* [Chat UI framework with fully customizable message cells, input view, and a built-in media picker](https://github.com/exyte/chat) by Exyte
 * [Walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding) by Exyte
+* [Floating button menu](https://github.com/exyte/FloatingButton) by Exyte
+* [A number of animated loading indicators](https://github.com/exyte/ActivityIndicatorView) by Exyte
+* [A number of animated progress indicators](https://github.com/exyte/ProgressIndicatorView) by Exyte
+* [SVG parser](https://github.com/exyte/SVGView) by Exyte
+* [Liquid navigation animation](https://github.com/exyte/LiquidSwipe) by Exyte
 * [Render ring chart, sunburst chart and multilevel pie chart diagrams](https://github.com/lludo/SwiftSunburstDiagram) by lludo
 * [SwiftSpeech: A speech recognition framework designed for SwiftUI](https://github.com/Cay-Zhang/SwiftSpeech) by Cay Zhang
 * [CardStack: A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS](https://github.com/dadalar/SwiftUI-CardStackView) by Deniz Adalar
