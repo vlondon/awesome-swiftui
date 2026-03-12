@@ -246,6 +246,7 @@ maxcodes
 
 ## Apps
 * [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
+* [HeyRobyn](https://heyrobyn.ai) - Native macOS unified inbox for email, Slack, and GitHub. Built entirely with SwiftUI.
 * [Photo Widget](https://apps.apple.com/app/id1532588789) by Sindre Sorhus
 
 
