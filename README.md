@@ -255,6 +255,7 @@ maxcodes
 * [SwiftUI - Declarative Interfaces for any Apple Device](https://www.udemy.com/course/swiftui-declarative-interfaces-for-any-apple-device/?couponCode=SWIFTUIMEDIUM) by Mohammad Azam
 * [Learn SwiftUI](https://learn.designcode.io/swiftui) by Meng To
 * [Build an app with SwiftUI](https://designcode.io/swiftui/) by Meng To
+* [Swift Student Challenge Resources](https://github.com/alyboii/swift-student-challenge-resources) - Curated resources for Apple's Swift Student Challenge — SwiftUI, concurrency, storytelling guides, and winner insights.
 
 
 ## 📖 Books
