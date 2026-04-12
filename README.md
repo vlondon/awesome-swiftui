@@ -197,6 +197,7 @@ maxcodes
 * [SwiftUI support for drag and drop on iOS](https://github.com/brunogb/SwiftUIDragDrop) by brunogb
 
 ### Libraries
+* [SceneViewSwift: 3D & AR views for SwiftUI powered by RealityKit](https://github.com/sceneview/sceneview) — iOS, macOS, visionOS. Declarative scene graph matching Jetpack Compose API on Android.
 * [Async image loading](https://github.com/cmtrounce/SwURL) by Callum Trounce
 * [QGrid: The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid) by Q-Mobile
 * [ASCollectionView: A SwiftUI collection view](https://github.com/apptekstudios/ASCollectionView) by Apptek Studios
