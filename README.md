@@ -210,6 +210,7 @@ maxcodes
 * [SharedObject: A new property wrapper for SwiftUI `ObservableObject`](https://github.com/lorenzofiamingo/SwiftUI-SharedObject)
 * [FontIcon: Bring Material, Font Awesome 5, Ionicons font icons into SwiftUI](https://github.com/huybuidac/SwiftUIFontIcon) by Huy Bui Dac
 * [SyntaxHighlight: TextMate-style syntax highlighting for SwiftUI](https://github.com/maoyama/SyntaxHighlight) by maoyama
+* [ShopSavvy: SwiftUI views and @Observable view models for product search and price comparison](https://github.com/shopsavvy/swiftui-shopsavvy) by ShopSavvy
 
 ### Combine
 * [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
