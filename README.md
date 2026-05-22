@@ -47,6 +47,7 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 * [Making a Real World Application With SwiftUI](https://medium.com/better-programming/making-a-real-world-application-with-swiftui-cb40884c1056) by Thomas Ricouard
 * [Building BarChart with Shape API in SwiftUI](https://mecid.github.io/2019/08/14/building-barchart-with-shape-api-in-swiftui/) by Majid
 * [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) by Paul Hudson
+* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### How to
 * [How to build a phone number text field](https://benjaminlsage.medium.com/format-phone-numbers-entirely-in-swiftui-9456f52990a1) by icyhovercraft
