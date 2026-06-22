@@ -248,6 +248,7 @@ maxcodes
 ## Apps
 * [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
 * [Photo Widget](https://apps.apple.com/app/id1532588789) by Sindre Sorhus
+* [DailyVox](https://getdailyvox.com) - AI voice diary with on-device NLP using NaturalLanguage and Speech frameworks. ([App Store](https://apps.apple.com/app/id6760454642))
 
 
 ## 💻 Courses
