@@ -244,6 +244,7 @@ maxcodes
 * [Imgur app with SwiftUI and Combine using MVVM](https://github.com/YetAnotherRzmn/Imgur.iOS) by Nikita Razumnyi
 * [Mac app that shows pull request last modified each line of a file](https://github.com/maoyama/GitBlamePR) by maoyama
 * [Animal Crossing New Horizons Companion App](https://github.com/Dimillian/ACHNBrowserUI) by Dimillian (Thomas Ricouard)
+* [A macOS app for controlling Spotify web player directly from your screen notch](https://github.com/blessedlab/NotchTune) by blessedlab
 
 ## Apps
 * [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
