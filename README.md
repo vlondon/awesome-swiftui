@@ -36,6 +36,8 @@ A list of articles, tutorials, guides and videos about SwiftUI and Combine. **Fe
 
 #### [SwiftUI Cheat Sheet](https://fuckingswiftui.com/)
 
+#### [I Built an 8-Agent Pipeline That Ships Real iOS Features](https://dev.to/akshaypimprikar/i-built-an-8-agent-pipeline-that-ships-real-ios-features-heres-the-part-that-actually-works-ocf) by Akshay Pimprikar
+
 ### Tutorials
 * [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials) by Apple
 * [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/) by Majid
