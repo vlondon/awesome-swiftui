@@ -211,6 +211,7 @@ maxcodes
 * [SharedObject: A new property wrapper for SwiftUI `ObservableObject`](https://github.com/lorenzofiamingo/SwiftUI-SharedObject)
 * [FontIcon: Bring Material, Font Awesome 5, Ionicons font icons into SwiftUI](https://github.com/huybuidac/SwiftUIFontIcon) by Huy Bui Dac
 * [SyntaxHighlight: TextMate-style syntax highlighting for SwiftUI](https://github.com/maoyama/SyntaxHighlight) by maoyama
+* [IconOven: UI icons as custom SF Symbols for SwiftUI, UIKit and AppKit, free in the Stroke style](https://github.com/iconoven/iconoven-swift) by Appic Marketing
 
 ### Combine
 * [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
