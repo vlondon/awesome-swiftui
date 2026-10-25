@@ -211,6 +211,7 @@ maxcodes
 * [SharedObject: A new property wrapper for SwiftUI `ObservableObject`](https://github.com/lorenzofiamingo/SwiftUI-SharedObject)
 * [FontIcon: Bring Material, Font Awesome 5, Ionicons font icons into SwiftUI](https://github.com/huybuidac/SwiftUIFontIcon) by Huy Bui Dac
 * [SyntaxHighlight: TextMate-style syntax highlighting for SwiftUI](https://github.com/maoyama/SyntaxHighlight) by maoyama
+* [DESIGN:OS Apple: SwiftUI design-system library with semantic roles, typed profiles and native recipes for iOS, iPadOS & macOS](https://github.com/jangtrinh/design-os-apple) by Jang Trịnh
 
 ### Combine
 * [Hover an async combine supported network library](https://github.com/onurhuseyincantay/Hover) by Onur H. Cantay
