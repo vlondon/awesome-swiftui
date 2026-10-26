@@ -244,6 +244,8 @@ maxcodes
 * [Imgur app with SwiftUI and Combine using MVVM](https://github.com/YetAnotherRzmn/Imgur.iOS) by Nikita Razumnyi
 * [Mac app that shows pull request last modified each line of a file](https://github.com/maoyama/GitBlamePR) by maoyama
 * [Animal Crossing New Horizons Companion App](https://github.com/Dimillian/ACHNBrowserUI) by Dimillian (Thomas Ricouard)
+* [Jutsu Studio, a macOS client for Higgsfield that makes AI videos and images and keeps every result on disk](https://github.com/jutsuhq/jutsu-studio) by jutsuhq
+* [Swapjutsu, a macOS app that swaps a character in a video with Seedance 2.5 or Wan 2.2 Animate](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) by jutsuhq
 
 ## Apps
 * [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
