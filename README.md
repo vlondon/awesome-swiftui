@@ -343,6 +343,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Pomosh-iOS-watchOS](https://github.com/stevenselcuk/Pomosh-iOS-watchOS) - Pomodoro Technique assistant on iOS and WatchOS
 - [swift-chat-ai-starter](https://github.com/unionst/swift-chat-ai-starter) - Chat app that streams Claude's replies as Markdown, with photo input, built on Swift Chat
 - [Mamoot](https://github.com/Benetos/Mamoot) - Mastodon and Twitter client for iOS, iPadOS & macOS
+- [Lexa](https://github.com/peterzhang0216/lexa) - Offline English vocabulary trainer with spaced repetition and open word lists (VOA, AWL, ECDICT); no account, no tracking.
 - [sfsymbols](https://github.com/atrinh0/sfsymbols) - SwiftUI app to search and showcase SF Symbols
 - [buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 
 - [SwiftUIMindBlowing](https://github.com/antranapp/SwiftUIMindBlowing) - Learning SwiftUI by examples.
