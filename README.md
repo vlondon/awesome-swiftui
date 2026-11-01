@@ -361,6 +361,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Open Habit](https://github.com/zamai/open-habit) - Habit tracker with interactive widgets, App Intents for Shortcuts, a watchOS companion and CloudKit sync
 - [Fud AI](https://github.com/apoorvdarshan/fud-ai) - Calorie and workout tracker for iPhone, iPad and Apple Watch: multi-photo AI food analysis with your own provider key, realtime voice logging, HealthKit, WidgetKit, App Intents for Siri and an on-device Apple Intelligence fallback
 - [Tuber](https://github.com/achubnet/Tuber) - Calm player for the YouTube channels you follow that skips in-video sponsor reads via SponsorBlock. SwiftUI with Liquid Glass, SwiftData + CloudKit, AVKit, App Intents.
+- [Oath Wallet](https://github.com/devdasx/oath-wallet) - SwiftUI wallet for iPhone and iPad with multi-network asset views and transfer review screens.
 
 ### tvOS
 
