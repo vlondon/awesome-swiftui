@@ -409,6 +409,7 @@ Introspect underlying UIKit components from SwiftUI
 - [AppDuo](https://github.com/tamia6/AppDuo) - Native macOS app cloner with separate data directories and custom names and icons.
 - [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Menu bar app that saves window layouts per external monitor and restores window positions, sizes and Mission Control Spaces on reconnect, with hardware DDC brightness keys on Apple Silicon. Built with Swift 6, SwiftUI and AppKit.
 - [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) - Desktop calendar widget and menu bar quick add that combine Google, iCloud, Outlook, Apple Reminders, Canvas, Todoist, Asana and Trello in one list.
+- [Louppe](https://github.com/murlexander/louppe-media-culler) - Photo viewer and sorter for JPEG and RAW folders: choose keepers with the keyboard and copy them without a library import. SwiftUI over AppKit for zoom and video, with XMP sidecar export.
 
 ### MultiPlatform Applications
 
