@@ -206,6 +206,7 @@ Introspect underlying UIKit components from SwiftUI
 ### Chat
 
 - [swift-chat](https://github.com/unionst/swift-chat) - iMessage-faithful chat UI for SwiftUI: bubble tails, typing indicators, read receipts, attachments and keyboard handling in one `Chat` view, plus an assistant style for AI chat apps that streams Markdown replies under the question
+- [SwiftyChat](https://github.com/EnesKaraosman/SwiftyChat) - Lightweight chat UI with 11 built-in message types, 8 themes, and iOS/macOS support
 
 ### Color
 
