@@ -387,6 +387,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Dusty](https://github.com/yagcioglutoprak/dusty) - SwiftUI menu bar cleaner for reclaiming disk space from safe macOS caches, logs, Xcode data, and developer artifacts.
 - [Lockpaw](https://github.com/sorkila/lockpaw) - macOS menu bar screen guard. Lock/unlock your screen with a hotkey while background tasks keep running.
 - [Rime](https://github.com/Yvsleyen00941/Rime) - Minimalist macOS PDF reader where everything outside the page freezes into frosted ice for distraction-free focus.
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native SwiftUI macOS workspace dashboard and daily heads-up display with a 24h dial and triage signals.
 - [Revu](https://github.com/JuliusBrussee/revu-swift) - Local-first spaced repetition app for macOS with FSRS scheduling, Notion-inspired UI, Anki import, and study forecasting.
 - [ItsPaint](https://github.com/joshlin2201/itspaint) - MS Paint for the Mac. A SwiftUI interface over an AppKit document and canvas, with screenshot markup, step badges, pixelate, and background removal that uses no model.
 - [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - Word-synced desktop lyrics for Apple Music, Spotify and browser web players. SwiftUI overlay, Dynamic Island capsule, lyrics window and menu bar text, with candidates from nine lyric sources scored on one scale to match the right version.
