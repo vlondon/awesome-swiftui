@@ -161,6 +161,7 @@ SwiftUI Image loading and Animation framework powered by SDWebImage
 - [SVG-to-SwiftUI](https://github.com/quassummanus/SVG-to-SwiftUI) - Tool to convert SVG to SwiftUI's Shape structure
 - [IconVectors](https://iconvectors.io/help/developer-features.html#developer-code-targets) - Desktop SVG icon editor that generates SwiftUI Shape/Path drawing code; commercial software with a 30-day trial
 - [whatishipped](https://github.com/selan-ai/whatishipped) - A Claude Code skill that recreates a mobile app's UI as it ships: every screen, state, component and journey of an iOS or Android app, drawn from its code and checked against the app's own screenshots.
+- [JSONDrivenUI](https://github.com/EnesKaraosman/JSONDrivenUI) - Build native SwiftUI views from JSON, or convert SwiftUI code back to JSON
 
 ### Inspection
 
