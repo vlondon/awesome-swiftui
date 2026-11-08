@@ -244,6 +244,10 @@ maxcodes
 * [Imgur app with SwiftUI and Combine using MVVM](https://github.com/YetAnotherRzmn/Imgur.iOS) by Nikita Razumnyi
 * [Mac app that shows pull request last modified each line of a file](https://github.com/maoyama/GitBlamePR) by maoyama
 * [Animal Crossing New Horizons Companion App](https://github.com/Dimillian/ACHNBrowserUI) by Dimillian (Thomas Ricouard)
+* [Tape - Stock ticker for macOS in the empty corner beside the Dock](https://github.com/Yvsleyen00941/Tape) by Yorben Vander Sleyen
+* [Rime - Distraction-free reading engine for PDF, EPUB, and Markdown](https://github.com/Yvsleyen00941/Rime) by Yorben Vander Sleyen
+* [Cockpit - Unified daily productivity heads-up display for macOS and iPadOS](https://github.com/Yvsleyen00941/Cockpit) by Yorben Vander Sleyen
+* [Waybill - Tactile 3D logistics idle diorama game for iPad built with RealityKit and SwiftUI](https://github.com/Yvsleyen00941/Waybill) by Yorben Vander Sleyen
 
 ## Apps
 * [Healr](https://apps.apple.com/ca/app/healr/id1492834816) by Healr Street
