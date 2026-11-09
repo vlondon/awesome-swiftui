@@ -270,3 +270,6 @@ maxcodes
 
 * [Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift) by raywenderlich.com
 * [Using Combine](https://heckj.github.io/swiftui-notes/) by Joseph Heck
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native macOS Now Playing companion in the corner beside the Dock.
