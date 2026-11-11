@@ -368,6 +368,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Oath Wallet](https://github.com/devdasx/oath-wallet) - SwiftUI wallet for iPhone and iPad with multi-network asset views and transfer review screens.
 
 - [Wudland](https://github.com/joexk1/wudland) - SwiftUI iPhone pixel village for calendar events, reminders, weather and encrypted coding-agent status. GPLv3; App Store review pending.
+- [Waybill](https://github.com/Yvsleyen00941/Waybill) - Tactile 3D logistics idle diorama game for iPad built with RealityKit and SwiftUI.
 
 ### tvOS
 
